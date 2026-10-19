@@ -3,11 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "description": "Re:Play — catálogo de recompilações e ports nativos para PC",
-  "engines": { "node": ">=22" },
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "dev": "node scripts/serve.mjs",
     "start": "node scripts/serve.mjs",
-    "check": "node --check dist/app.js && node --check dist/curated.js && node check.cjs",
+    "check": "node --check dist/app.js && node --check dist/curated.js && node check.cjs && node check-refresh.cjs",
     "test": "npm run check"
   }
 }
