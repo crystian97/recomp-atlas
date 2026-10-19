@@ -1,0 +1,15 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const elements={};let selectedPlatforms=[],selectedTypes=[];
+const document={querySelector:s=>elements[s]??={value:s==='#sort'?'featured':'',checked:false},querySelectorAll:s=>s.includes('name=platform')?selectedPlatforms.map(value=>({value})):s.includes('name=type')?selectedTypes.map(value=>({value})):[]};
+const ctx=vm.createContext({document,localStorage:{getItem:()=>null},URL,console,Intl,Date});
+const code=fs.readFileSync('dist/app.js','utf8').split("$('#search').addEventListener")[0];vm.runInContext(code,ctx);
+ctx.data=JSON.parse(fs.readFileSync('dist/catalog.json','utf8'));vm.runInContext('games=normalized(data)',ctx);
+const count=vm.runInContext('games.length',ctx);assert(count>500);assert(vm.runInContext('games.every(g=>labels[g.type])',ctx));
+elements['#search']={value:'Zelda64Recomp'};assert(vm.runInContext('filtered().some(g=>g.repo==="Zelda64Recomp/Zelda64Recomp")',ctx));
+elements['#search'].value='';selectedPlatforms=['Xbox 360'];assert(vm.runInContext('filtered().length>0 && filtered().every(g=>platforms(g).includes("Xbox 360"))',ctx));
+selectedTypes=['static-recomp'];assert(vm.runInContext('filtered().every(g=>g.type==="static-recomp")',ctx));
+elements['#released'].checked=true;assert(vm.runInContext('filtered().every(g=>g.release)',ctx));
+selectedPlatforms=[];selectedTypes=[];elements['#released'].checked=false;elements['#favorites'].checked=true;assert.equal(vm.runInContext('filtered().length',ctx),0);
+vm.runInContext('favorites.add(games[0].id)',ctx);assert.equal(vm.runInContext('filtered().length',ctx),1);
+assert.equal(vm.runInContext('safeURL("javascript:alert(1)")',ctx),'');assert.equal(vm.runInContext('esc("<script>")',ctx),'&lt;script&gt;');
+console.log('PASS: '+count+' projetos; busca, plataformas, tipo, releases, favoritos e escape de conteúdo.');
