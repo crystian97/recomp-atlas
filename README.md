@@ -1,13 +1,77 @@
 # Re:Play
 
-Catálogo em português de recompilações, ports nativos e recriações de engines. Site estático sem dependências de build.
+**O jogo continua. No PC.**
 
-Sirva `dist/` por HTTP. A página carrega a cópia local de `catalog.json`, consulta a base pública awesome-decomp-games e repete a consulta a cada 30 minutos enquanto visível. A data da fonte é mostrada; falhas conservam a cópia disponível. Novos registros compatíveis são incorporados automaticamente. Não há job de descoberta independente nem promessa de cobertura exaustiva.
+Catálogo em português de recompilações, ports nativos e recriações de engines. HTML, CSS e JavaScript, sem dependências de instalação ou etapa de build.
 
-Filtros por plataformas originais, tipo e release, busca, ordenação, paginação e favoritos locais. Source ports classificados pela fonte como decompilações têm uma lista explícita em `knownPorts`. Uma release não certifica compatibilidade com PC, qualidade ou completude. A fonte deve ser auditada editorialmente para um catálogo estritamente curado.
+## Recursos
 
-Dados: https://github.com/SubmitGame/awesome-decomp-games (CC0). Capas: https://github.com/libretro-thumbnails. Imagens de jogos e marcas pertencem a seus titulares. Sem imagem, o card mostra iniciais. Somente quatro capas locais são fornecidas; demais cards usam imagens da fonte quando disponíveis.
+- Busca por jogo, projeto e desenvolvedor.
+- Filtros por plataforma original, tipo, release e favoritos.
+- Ordenação por destaque, atividade, estrelas e nome.
+- Título e capa com links para o GitHub.
+- Favoritos locais no navegador.
+- Base comunitária atualizada ao abrir e a cada 30 minutos enquanto a página estiver visível.
+- Lista complementar de projetos verificados, com consulta de versões diretamente ao GitHub.
 
-Atualização do snapshot: baixar https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/data/games.json para dist/catalog.json. Credenciais não são necessárias no cliente.
+## Rodar localmente
 
-Projetos complementares: editar dist/curated.js com fonte oficial, classificação, capa e data da verificação. A mesclagem deduplica por repositório, mantém identidade e curadoria, e usa metadados mais recentes. A API pública do GitHub atualiza somente os projetos complementares, com fallback e cache; não faz descoberta universal.
+Requer Node.js 22 ou superior (CI usa Node.js 24). Não é necessário executar `npm install`.
+
+```sh
+npm run dev
+```
+
+Se o seu ambiente disponibilizar Node sem npm, use `node scripts/serve.mjs`.
+
+Abra `http://127.0.0.1:4173`. Para verificar o código e os testes:
+
+```sh
+npm run check
+```
+
+Sem npm, execute `node --check dist/app.js`, `node --check dist/curated.js` e `node check.cjs`.
+
+## Organização
+
+| Caminho | Função |
+| --- | --- |
+| `dist/` | Site pronto para hospedagem; estes são os arquivos editáveis |
+| `dist/app.js` | Busca, filtros, favoritos e atualização |
+| `dist/catalog.json` | Cópia da base para carregamento inicial e fallback |
+| `dist/curated.js` | Projetos complementares verificados |
+| `dist/covers/` | Capas locais |
+| `check.cjs` | Testes do catálogo e mesclagem |
+| `scripts/serve.mjs` | Servidor de desenvolvimento |
+| `.github/workflows/` | Validação e publicação manual no GitHub Pages |
+| `.openai/hosting.json` | Identidade da hospedagem existente no Sites; não é uma credencial |
+
+## Repositório no GitHub
+
+O nome sugerido é `replay`. A conta/organização e a visibilidade devem ser escolhidas pelo responsável. Faça o primeiro envio pela raiz deste projeto, não pela pasta que o contém. Não envie tokens ou arquivos `.env`.
+
+O workflow **Validar projeto** executa em pushes e pull requests. A publicação não ocorre automaticamente ao enviar o código.
+
+## Publicar no GitHub Pages quando estiver pronto
+
+1. No repositório, abra **Settings → Pages → Build and deployment → Source → GitHub Actions**.
+2. Abra **Actions → Publicar site → Run workflow** e escolha a branch padrão.
+3. Aguarde a preparação e publicação. A URL aparece no ambiente `github-pages` e no resultado do deploy.
+
+Somente `dist/` é enviado à hospedagem. Os caminhos relativos funcionam em domínio próprio e no endereço de projeto do GitHub Pages. Cada atualização pública exige executar novamente o workflow.
+
+O Pages está disponível para repositórios públicos no GitHub Free; repositórios privados exigem plano compatível. A visibilidade do código e a do site são decisões distintas. Consulte a [documentação do GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+
+Qualquer hospedagem estática também pode publicar `dist/`. Nenhum segredo de servidor é necessário. A versão privada existente no Sites permanece independente.
+
+## Atualização e limites
+
+O cliente lê [awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games), conserva uma cópia local e mostra a data de geração da fonte. Novos registros elegíveis da fonte entram automaticamente. Para renovar o snapshot versionado, substitua `dist/catalog.json` pelo JSON de `data/games.json` desse repositório e execute as verificações antes de enviar.
+
+Projetos de `dist/curated.js` permanecem após a sincronização e são deduplicados por repositório. Para esses registros, a API pública do GitHub é consultada ao atualizar; falhas ou limites preservam os dados anteriores, com aviso na interface.
+
+Não existe descoberta universal de lançamentos nem atualização agendada enquanto o site está fechado. A base pode ter atrasos, lacunas e erros de classificação. Uma release não certifica compatibilidade, qualidade ou completude. Muitos ports exigem arquivos da própria cópia do jogo. Sem imagem, o card exibe iniciais.
+
+## Contribuições e créditos
+
+Consulte [CONTRIBUTING.md](CONTRIBUTING.md) e [CREDITS.md](CREDITS.md). A licença do código próprio está pendente de escolha pelo responsável.
