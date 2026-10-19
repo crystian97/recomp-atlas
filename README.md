@@ -1,4 +1,4 @@
-# Recomp Atlas
+# Re:Play
 
 Catálogo em português de recompilações, ports nativos e recriações de engines. Site estático sem dependências de build.
 
