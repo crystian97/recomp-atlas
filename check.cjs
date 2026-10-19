@@ -2,6 +2,7 @@ const fs=require('fs'),vm=require('vm'),assert=require('assert');
 const elements={};let selectedPlatforms=[],selectedTypes=[];
 const document={querySelector:s=>elements[s]??={value:s==='#sort'?'featured':'',checked:false},querySelectorAll:s=>s.includes('name=platform')?selectedPlatforms.map(value=>({value})):s.includes('name=type')?selectedTypes.map(value=>({value})):[]};
 const ctx=vm.createContext({document,localStorage:{getItem:()=>null},URL,console,Intl,Date});
+vm.runInContext(fs.readFileSync('dist/curated.js','utf8'),ctx);
 const code=fs.readFileSync('dist/app.js','utf8').split("$('#search').addEventListener")[0];vm.runInContext(code,ctx);
 ctx.data=JSON.parse(fs.readFileSync('dist/catalog.json','utf8'));vm.runInContext('games=normalized(data)',ctx);
 const count=vm.runInContext('games.length',ctx);assert(count>500);assert(vm.runInContext('games.every(g=>labels[g.type])',ctx));
@@ -13,3 +14,13 @@ selectedPlatforms=[];selectedTypes=[];elements['#released'].checked=false;elemen
 vm.runInContext('favorites.add(games[0].id)',ctx);assert.equal(vm.runInContext('filtered().length',ctx),1);
 assert.equal(vm.runInContext('safeURL("javascript:alert(1)")',ctx),'');assert.equal(vm.runInContext('esc("<script>")',ctx),'&lt;script&gt;');
 console.log('PASS: '+count+' projetos; busca, plataformas, tipo, releases, favoritos e escape de conteúdo.');
+
+const extra=vm.runInContext('curated[0]',ctx);
+assert(vm.runInContext('games.some(g=>g.repo===curated[0].repo)',ctx),'Supplement survives absent upstream entry');
+ctx.future={generated_at:'2026-10-20T12:00:00Z',games:[{...extra,id:'different-id',repo:extra.repo.toUpperCase(),release:'0.3.0'}]};
+assert.equal(vm.runInContext('normalized(future).length',ctx),1,'Deduplicates repository case-insensitively');
+assert.equal(vm.runInContext('normalized(future)[0].release',ctx),'0.3.0','Uses newer upstream metadata');
+assert.equal(vm.runInContext('normalized(future)[0].id',ctx),extra.id,'Keeps favorite identity');
+assert.equal(vm.runInContext('normalized(future)[0].platform',ctx),'Xbox');
+assert.equal(vm.runInContext('cover(normalized(future)[0])',ctx),'covers/shaolin-monks.png');
+console.log('PASS: inclusão complementar, deduplicação, dados novos, identidade e capa de Shaolin Monks.');
