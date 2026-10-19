@@ -1,6 +1,6 @@
 const SOURCE='https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/';
 const labels={'static-recomp':'RECOMPILAÇÃO','source-port':'PORT NATIVO','engine-remake':'RECRIAÇÃO DE ENGINE'};
-const knownPorts=['HarbourMasters/Shipwright','HarbourMasters/2ship2harkinian','coop-deluxe/sm64coopdx','OpenGOAL/jak-project','HarbourMasters/Starship','n64decomp/sm64'];
+const knownPorts=['HarbourMasters/Shipwright','HarbourMasters/2ship2harkinian','coop-deluxe/sm64coopdx','OpenGOAL/jak-project','HarbourMasters/Starship'];
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
 let games=[],limit=24,busy=false,favorites=new Set();
 try{favorites=new Set(JSON.parse(localStorage.getItem('atlas-favorites')||'[]'))}catch{}
