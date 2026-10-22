@@ -75,3 +75,15 @@ Não existe descoberta universal de lançamentos nem atualização agendada enqu
 ## Contribuições e créditos
 
 Consulte [CONTRIBUTING.md](CONTRIBUTING.md) e [CREDITS.md](CREDITS.md). A licença do código próprio está pendente de escolha pelo responsável.
+
+## Projetos no navegador
+
+`dist/browser-projects.js` contém curadoria persistente de projetos web, separada dos metadados automáticos. Os filtros “Projetos de navegador” e “Com link para jogar” combinam com plataforma, tipo e favoritos. Jogar aponta para uma página de acesso, sem garantir gameplay; Vídeo, Notícia e Código aparecem apenas quando há fonte. Código pode ser do runtime compartilhado, conforme nota no card.
+
+Consulte [VERIFICACAO-NAVEGADOR.md](VERIFICACAO-NAVEGADOR.md) para evidências e pendências. `node check-browser.cjs` cobre persistência, deduplicação, classificações e links. `npm run check` executa todas as verificações, incluindo `node check-refresh.cjs`.
+
+## Capas e filtros visuais — 22/10/2026
+
+O filtro agrupa plataformas por família, com ícones, contagens, seleção múltipla e busca. A seleção é preservada durante a atualização do catálogo.
+
+600 capas locais adicionais foram obtidas de Libretro Thumbnails, com 602 associações por título normalizado e plataforma original. A origem de cada arquivo está em `COVER-SOURCES.json`. O script `scripts/update-covers.mjs` permite reconstruir o índice; falhas de obtenção ficam registradas, sem substituir uma imagem por uma capa de outro jogo. Nem todos os títulos possuem correspondência no acervo. O índice local permanece disponível após a atualização da fonte comunitária.
