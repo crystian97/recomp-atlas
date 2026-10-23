@@ -1,4 +1,4 @@
-# Re:Play
+# jogosrecompilados.com.br
 
 **O jogo continua. No PC.**
 
@@ -48,7 +48,7 @@ Sem npm, execute `node --check dist/app.js`, `node --check dist/curated.js` e `n
 
 ## Repositório no GitHub
 
-O nome sugerido é `replay`. A conta/organização e a visibilidade devem ser escolhidas pelo responsável. Faça o primeiro envio pela raiz deste projeto, não pela pasta que o contém. Não envie tokens ou arquivos `.env`.
+O código de **jogosrecompilados.com.br** está no repositório [crystian97/recomp-atlas](https://github.com/crystian97/recomp-atlas). Execute os comandos Git pela raiz deste projeto. Não envie tokens ou arquivos `.env`.
 
 O workflow **Validar projeto** executa em pushes e pull requests. A publicação não ocorre automaticamente ao enviar o código.
 
