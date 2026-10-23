@@ -87,9 +87,3 @@ Consulte [VERIFICACAO-NAVEGADOR.md](VERIFICACAO-NAVEGADOR.md) para evidências e
 O filtro agrupa plataformas por família, com ícones, contagens, seleção múltipla e busca. A seleção é preservada durante a atualização do catálogo.
 
 600 capas locais adicionais foram obtidas de Libretro Thumbnails, com 602 associações por título normalizado e plataforma original. A origem de cada arquivo está em `COVER-SOURCES.json`. O script `scripts/update-covers.mjs` permite reconstruir o índice; falhas de obtenção ficam registradas, sem substituir uma imagem por uma capa de outro jogo. Nem todos os títulos possuem correspondência no acervo. O índice local permanece disponível após a atualização da fonte comunitária.
-
-## Domínio próprio e monetização futura
-
-O domínio `jogosrecompilados.com.br` está reservado para a migração quando estiver liberado. A configuração de DNS, HTTPS e domínio personalizado será feita nessa etapa; até lá, o site público continua no GitHub Pages.
-
-A estrutura é estática e pode receber monetização depois. Antes de ativar publicidade, escolheremos o provedor, criaremos espaços responsivos sem cobrir filtros nem capas e adicionaremos os arquivos de verificação exigidos pelo provedor. Analytics, cookies não essenciais e scripts de terceiros só devem entrar quando forem escolhidos e acompanhados das informações de privacidade e consentimento apropriadas. Nenhuma rede de anúncios ou rastreamento está ativa agora.
