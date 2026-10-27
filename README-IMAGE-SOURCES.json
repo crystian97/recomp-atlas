@@ -1,0 +1,3470 @@
+{
+  "checked_at": "2026-10-27T12:01:43.232Z",
+  "sources": {
+    "bryanthaboi/gen1recomp": {
+      "title": "Pokemon RBY / GSC / FRLF / RSE (G1R Deluxe)",
+      "local": "covers/readme-6d7073c0804449a3.webp",
+      "image_url": "https://raw.githubusercontent.com/bryanthaboi/gen1recomp/refs/heads/dev/assets/logo/logo.png",
+      "readme_url": "https://raw.githubusercontent.com/bryanthaboi/gen1recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:52.178Z"
+    },
+    "underdecoded/gen2recomped": {
+      "title": "Pokemon Gold / Silver / Crystal (Gen2Recomped)",
+      "local": "covers/readme-4a3ac7eb5b3b0474.webp",
+      "image_url": "https://raw.githubusercontent.com/UNDERdecoded/Gen2Recomped/HEAD/assets/logo/gen2logo.png",
+      "readme_url": "https://raw.githubusercontent.com/UNDERdecoded/Gen2Recomped/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:52.428Z"
+    },
+    "opensmash-ultimate/ssbu-recomp": {
+      "title": "Super Smash Bros. Ultimate (ssbu-recomp)",
+      "local": "covers/readme-53cd9a1192e64a2d.webp",
+      "image_url": "https://raw.githubusercontent.com/OpenSmash-Ultimate/ssbu-recomp/HEAD/media/og-image.png",
+      "readme_url": "https://raw.githubusercontent.com/OpenSmash-Ultimate/ssbu-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:52.472Z"
+    },
+    "peiikai/lasrecomp": {
+      "title": "The Legend of Zelda: Link's Awakening (LAS Recomp)",
+      "local": "covers/readme-e3b67ffd720c4389.webp",
+      "image_url": "https://raw.githubusercontent.com/peiikai/LASRecomp/HEAD/docs/start_screen.jpg",
+      "readme_url": "https://raw.githubusercontent.com/peiikai/LASRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:52.521Z"
+    },
+    "psxrestore/condemned2recomp": {
+      "title": "Condemned 2: Bloodshot",
+      "local": "covers/readme-01094f7e1bd3cdb8.webp",
+      "image_url": "https://img.youtube.com/vi/028_cJIhIjA/maxresdefault.jpg",
+      "readme_url": "https://raw.githubusercontent.com/psxrestore/Condemned2Recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:52.657Z"
+    },
+    "openportroid/armyoftworecompilation": {
+      "title": "Army of Two",
+      "local": "covers/readme-45b5fc8ccb5762d2.webp",
+      "image_url": "https://raw.githubusercontent.com/OpenPortroid/ArmyOfTwoRecompilation/HEAD/aot/docs/logo.png",
+      "readme_url": "https://raw.githubusercontent.com/OpenPortroid/ArmyOfTwoRecompilation/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:52.970Z"
+    },
+    "frankhun88453/cod3recomp": {
+      "title": "Call of Duty 3",
+      "local": "covers/readme-3b96d9139d7fc959.webp",
+      "image_url": "https://raw.githubusercontent.com/FrankHUN88453/CoD3Recomp/HEAD/preview.png",
+      "readme_url": "https://raw.githubusercontent.com/FrankHUN88453/CoD3Recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:53.114Z"
+    },
+    "paulcombal/mw2-recompiled": {
+      "title": "Call of Duty: Modern Warfare 2",
+      "local": "covers/readme-110d4d4a59da0bc1.webp",
+      "image_url": "https://raw.githubusercontent.com/PaulCombal/mw2-recompiled/HEAD/docs/images/readme/split-screen.jpg",
+      "readme_url": "https://raw.githubusercontent.com/PaulCombal/mw2-recompiled/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:53.384Z"
+    },
+    "florinp93/hells-gate-recomp": {
+      "title": "Dante's Inferno",
+      "local": "covers/readme-7aa03ffc97a76570.webp",
+      "image_url": "https://raw.githubusercontent.com/florinp93/hells-gate-recomp/HEAD/assets/fan_artwork.png",
+      "readme_url": "https://raw.githubusercontent.com/florinp93/hells-gate-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:53.440Z"
+    },
+    "zolaware/reblue": {
+      "title": "Blue Dragon",
+      "local": "covers/readme-f96548f3a36d4bb0.webp",
+      "image_url": "https://github.com/user-attachments/assets/1779fdfd-bc3a-416d-8b6c-38874d8eae93",
+      "readme_url": "https://raw.githubusercontent.com/zolaware/reblue/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:53.469Z"
+    },
+    "sansnope/unleashedrecomp-android": {
+      "title": "Sonic Unleashed",
+      "local": "covers/readme-85ff0de716872bf4.webp",
+      "image_url": "https://github.com/user-attachments/assets/00fa9b4a-4761-4cad-9ecb-060a5bec815d",
+      "readme_url": "https://raw.githubusercontent.com/SansNope/UnleashedRecomp-Android/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:53.590Z"
+    },
+    "hossez/fifa-world-cup-2014-recompiled": {
+      "title": "2014 FIFA World Cup Brazil",
+      "local": "covers/readme-e0bff5f704686fdc.webp",
+      "image_url": "https://github.com/user-attachments/assets/416c4381-1563-47bc-a1b3-d5dd63544605",
+      "readme_url": "https://raw.githubusercontent.com/HossEz/fifa-world-cup-2014-recompiled/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:53.758Z"
+    },
+    "masterspike52/redahm": {
+      "title": "Destroy All Humans: Path of the Furon",
+      "local": "covers/readme-e1dd79f275baa901.webp",
+      "image_url": "https://github.com/user-attachments/assets/d80c06b9-bc26-4fca-b235-22de8d32971b",
+      "readme_url": "https://raw.githubusercontent.com/masterspike52/reDAHM/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:53.859Z"
+    },
+    "birabittoh/eternalsonatareprise": {
+      "title": "Eternal Sonata",
+      "local": "covers/readme-865b73cf85484f97.webp",
+      "image_url": "https://raw.githubusercontent.com/birabittoh/EternalSonataReprise/HEAD/res/logo.png",
+      "readme_url": "https://raw.githubusercontent.com/birabittoh/EternalSonataReprise/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:54.046Z"
+    },
+    "arcanite24/pinyon-shift": {
+      "title": "Forza Horizon",
+      "local": "covers/readme-21a3e5ca9d0a91ee.webp",
+      "image_url": "https://raw.githubusercontent.com/arcanite24/pinyon-shift/HEAD/.github/pinyon-shift-banner.png",
+      "readme_url": "https://raw.githubusercontent.com/arcanite24/pinyon-shift/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:54.134Z"
+    },
+    "koreanseats1/theft4": {
+      "title": "Grand Theft Auto IV",
+      "local": "covers/readme-38b8d7d88523a925.webp",
+      "image_url": "https://raw.githubusercontent.com/KoreanSeats1/Theft4/HEAD/docs/images/capture-saved-gameplay.png",
+      "readme_url": "https://raw.githubusercontent.com/KoreanSeats1/Theft4/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:54.297Z"
+    },
+    "tekrantgaming/king-kong-recompiled": {
+      "title": "King Kong Recompiled",
+      "local": "covers/readme-0e27179905d10d1f.webp",
+      "image_url": "https://raw.githubusercontent.com/TekRantGaming/king-kong-recompiled/HEAD/docs/images/launcher-home.jpg",
+      "readme_url": "https://raw.githubusercontent.com/TekRantGaming/king-kong-recompiled/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:54.418Z"
+    },
+    "overkilllabs3/driveclub-recomp": {
+      "title": "DriveClub (DriveClub Recomp)",
+      "local": "covers/readme-c09ee7e4d19eadbc.webp",
+      "image_url": "https://github.com/user-attachments/assets/4c0fe155-eae9-4c78-aa24-4a5b154e2b9f",
+      "readme_url": "https://raw.githubusercontent.com/OverkillLabs3/driveclub-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:54.481Z"
+    },
+    "nevercookfirst/dimensionsrecomp": {
+      "title": "Lego Dimensions",
+      "local": "covers/readme-fd259cef14ba9dd2.webp",
+      "image_url": "https://raw.githubusercontent.com/NeverCookFirst/DimensionsRecomp/HEAD/docs/logo_new.png",
+      "readme_url": "https://raw.githubusercontent.com/NeverCookFirst/DimensionsRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:54.556Z"
+    },
+    "freefrank/lostodysseyrecomp": {
+      "title": "Lost Odyssey",
+      "local": "covers/readme-a7fc97f5ebebcc34.webp",
+      "image_url": "https://raw.githubusercontent.com/freefrank/LostOdysseyRecomp/HEAD/docs/images/title-screen.png",
+      "readme_url": "https://raw.githubusercontent.com/freefrank/LostOdysseyRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:54.587Z"
+    },
+    "thatguymcd/dkr-r": {
+      "title": "Diddy Kong Racing",
+      "local": "covers/readme-074bfad30fcef409.webp",
+      "image_url": "https://github.com/user-attachments/assets/c913bee2-029c-4e29-9921-0f6abe7a3bf1",
+      "readme_url": "https://raw.githubusercontent.com/ThatGuyMcd/DKR-R/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:54.649Z"
+    },
+    "mstan/megamanxsnesrecomp": {
+      "title": "Mega Man X",
+      "local": "covers/readme-83d73bbe764852f4.webp",
+      "image_url": "https://i.ytimg.com/vi/TDysNWWJ25g/maxresdefault.jpg",
+      "readme_url": "https://raw.githubusercontent.com/mstan/MegaManXSNESRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:54.695Z"
+    },
+    "zaps166/nfsiise": {
+      "title": "Need for Speed II: Special Edition",
+      "local": "covers/readme-fcf12cab96b96c49.webp",
+      "image_url": "https://raw.githubusercontent.com/zaps166/GitHubCommonContents/master/Screenshots/NFSIISE.png",
+      "readme_url": "https://raw.githubusercontent.com/zaps166/NFSIISE/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:54.764Z"
+    },
+    "masterspike52/renut": {
+      "title": "Banjo-Kazooie Nuts and Bolts",
+      "local": "covers/readme-581f206df821b076.webp",
+      "image_url": "https://github.com/user-attachments/assets/273bee28-755f-4494-920f-9333af72091e",
+      "readme_url": "https://raw.githubusercontent.com/masterspike52/reNut/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:54.853Z"
+    },
+    "holdmysocks/mcla-recomp": {
+      "title": "Midnight Club: Los Angeles",
+      "local": "covers/readme-62a95f7c3db13dd3.webp",
+      "image_url": "https://raw.githubusercontent.com/holdmysocks/mcla-recomp/HEAD/docs/images/ps5-home-screen.webp",
+      "readme_url": "https://raw.githubusercontent.com/holdmysocks/mcla-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:54.856Z"
+    },
+    "999sian/melee-pc": {
+      "title": "MeleePC",
+      "local": "covers/readme-422a838351546375.webp",
+      "image_url": "https://raw.githubusercontent.com/999sian/melee-pc/HEAD/docs/screenshots/title.png",
+      "readme_url": "https://raw.githubusercontent.com/999sian/melee-pc/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:54.873Z"
+    },
+    "gtteancum/spideyps1recomp": {
+      "title": "OpenSpideyPS1",
+      "local": "covers/readme-48156a8d58bc46b9.webp",
+      "image_url": "https://raw.githubusercontent.com/GTTeancum/SpideyPS1recomp/HEAD/docs/screenshots/gallery/sm1-4x3.png",
+      "readme_url": "https://raw.githubusercontent.com/GTTeancum/SpideyPS1recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:55.273Z"
+    },
+    "coccofresco/triaevum": {
+      "title": "Ocarina of Time 3D (TriAevum Recomp)",
+      "local": "covers/readme-c514def414c80a86.webp",
+      "image_url": "https://raw.githubusercontent.com/coccofresco/TriAevum/HEAD/docs/images/beta12-hyrule-field.jpg",
+      "readme_url": "https://raw.githubusercontent.com/coccofresco/TriAevum/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:55.275Z"
+    },
+    "codepdbh/nfsu2-recompiled": {
+      "title": "Need for Speed: Underground 2 (nfsu2-recompiled)",
+      "local": "covers/readme-1166c8f2e2e24477.webp",
+      "image_url": "https://raw.githubusercontent.com/codepdbh/nfsu2-recompiled/HEAD/docs/images/android_race_gameplay.png",
+      "readme_url": "https://raw.githubusercontent.com/codepdbh/nfsu2-recompiled/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:55.284Z"
+    },
+    "elyosh/opentie": {
+      "title": "OpenTIE",
+      "local": "covers/readme-3196d1e8294c4472.webp",
+      "image_url": "https://raw.githubusercontent.com/elyosh/OpenTIE/HEAD/assets/opentie-001.jpg",
+      "readme_url": "https://raw.githubusercontent.com/elyosh/OpenTIE/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:55.328Z"
+    },
+    "open-annihilation/open-annihilation": {
+      "title": "Open Annihilation",
+      "local": "covers/readme-022697e0494cb88b.webp",
+      "image_url": "https://raw.githubusercontent.com/open-annihilation/branding/main/logos/open-annihilation-header.png",
+      "readme_url": "https://raw.githubusercontent.com/open-annihilation/open-annihilation/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:55.350Z"
+    },
+    "nikolaygorb/perfectdarkzerorecomp": {
+      "title": "Perfect Dark Zero",
+      "local": "covers/readme-2e74ad55413ae448.webp",
+      "image_url": "https://raw.githubusercontent.com/nikolaygorb/PerfectDarkZeroRecomp/HEAD/assets/icon.png",
+      "readme_url": "https://raw.githubusercontent.com/nikolaygorb/PerfectDarkZeroRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:55.358Z"
+    },
+    "nikolaygorb/perfectdarkremasterrecomp": {
+      "title": "Perfect Dark Remaster",
+      "local": "covers/readme-9b82c3d2d110a6a3.webp",
+      "image_url": "https://raw.githubusercontent.com/nikolaygorb/PerfectDarkRemasterRecomp/HEAD/assets/icon.png",
+      "readme_url": "https://raw.githubusercontent.com/nikolaygorb/PerfectDarkRemasterRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:55.358Z"
+    },
+    "mstan/starfoxsnesrecomp": {
+      "title": "Starfox Recomp",
+      "local": "covers/readme-f8d73e9c67a503e4.webp",
+      "image_url": "https://raw.githubusercontent.com/mstan/StarFoxSNESRecomp/HEAD/docs/images/starfox-enhanced-widescreen-training.png",
+      "readme_url": "https://raw.githubusercontent.com/mstan/StarFoxSNESRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:55.779Z"
+    },
+    "raulzrrs/letsgo-recomp": {
+      "title": "Pokémon: Let's Go, Eevee! (Let's Go Recomp)",
+      "local": "covers/readme-19f5f05aa01111ba.webp",
+      "image_url": "https://github.com/raulzrrs/letsgo-recomp/releases/download/v0.5.0/screenshot-compare-gym.jpg",
+      "readme_url": "https://raw.githubusercontent.com/raulzrrs/letsgo-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:55.782Z"
+    },
+    "littlebitua/downpourrecomp": {
+      "title": "Silent Hill: Downpour",
+      "local": "covers/readme-2645229303523edc.webp",
+      "image_url": "https://raw.githubusercontent.com/LittleBitUA/DownpourRecomp/HEAD/docs/screenshots/murphy-closeup.png",
+      "readme_url": "https://raw.githubusercontent.com/LittleBitUA/DownpourRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:55.789Z"
+    },
+    "smm2recomp/smm2recomp": {
+      "title": "Super Mario Maker 2 (SMM2 Recomp)",
+      "local": "covers/readme-f3d7a7ded32705d6.webp",
+      "image_url": "https://raw.githubusercontent.com/smm2recomp/smm2recomp/HEAD/docs/screenshots/title.jpg",
+      "readme_url": "https://raw.githubusercontent.com/smm2recomp/smm2recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:55.821Z"
+    },
+    "ihaideez/smw": {
+      "title": "Super Mario Bros. Wonder (SMW)",
+      "local": "covers/readme-38d8b48666e14eaa.webp",
+      "image_url": "https://raw.githubusercontent.com/iHaiDeeZ/SMW/HEAD/docs/images/boot-screen.png",
+      "readme_url": "https://raw.githubusercontent.com/iHaiDeeZ/SMW/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:55.836Z"
+    },
+    "invinceble55-wq/estacado-the-darkness-recomp": {
+      "title": "The Darkness",
+      "local": "covers/readme-361960d1a4034cd6.webp",
+      "image_url": "https://raw.githubusercontent.com/invinceble55-wq/Estacado-The-Darkness-Recomp/HEAD/docs/screenshots/chinatown-street.jpg",
+      "readme_url": "https://raw.githubusercontent.com/invinceble55-wq/Estacado-The-Darkness-Recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:56.101Z"
+    },
+    "nikolaygorb/wetrecomp": {
+      "title": "Wet",
+      "local": "covers/readme-eef9a00b65009439.webp",
+      "image_url": "https://raw.githubusercontent.com/nikolaygorb/WetRecomp/HEAD/assets/icon.png",
+      "readme_url": "https://raw.githubusercontent.com/nikolaygorb/WetRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:56.294Z"
+    },
+    "maxevans60/cm0102-bosman-edition": {
+      "title": "Championship Manager: Season 01/02 (02: Bosman Edition)",
+      "local": "covers/readme-a6cae22f9dbf0d3a.webp",
+      "image_url": "https://maxevans60.github.io/cm0102-bosman-edition/assets/s1@2x.png",
+      "readme_url": "https://raw.githubusercontent.com/maxevans60/cm0102-bosman-edition/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:56.631Z"
+    },
+    "littlebitua/dprecomp": {
+      "title": "Deadly Premonition",
+      "local": "covers/readme-29236aaf463aded7.webp",
+      "image_url": "https://raw.githubusercontent.com/LittleBitUA/DPRecomp/HEAD/docs/screenshots/york.jpg",
+      "readme_url": "https://raw.githubusercontent.com/LittleBitUA/DPRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:56.859Z"
+    },
+    "96dot/dragon-age-origins-recomp": {
+      "title": "Dragon Age: Origins",
+      "local": "covers/readme-bdb01274c3e877a1.webp",
+      "image_url": "https://raw.githubusercontent.com/96dot/Dragon-Age-Origins-Recomp/HEAD/docs/screenshots/title-screen.webp",
+      "readme_url": "https://raw.githubusercontent.com/96dot/Dragon-Age-Origins-Recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:56.922Z"
+    },
+    "iexplosiverage/dbz-burst-limit-recompiled": {
+      "title": "Dragon Ball Z: Burst Limit",
+      "local": "covers/readme-c52b8ae7771bc9d3.webp",
+      "image_url": "https://raw.githubusercontent.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled/HEAD/res/screenshots/start_screen.png",
+      "readme_url": "https://raw.githubusercontent.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:57.148Z"
+    },
+    "rubymatrix/xi-on-anything": {
+      "title": "Final Fantasy XI",
+      "local": "covers/readme-de2c4d3ab9cafc95.webp",
+      "image_url": "https://raw.githubusercontent.com/rubymatrix/xi-on-anything/HEAD/screenshots/titlescreen_uw.jpg",
+      "readme_url": "https://raw.githubusercontent.com/rubymatrix/xi-on-anything/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:57.374Z"
+    },
+    "dahsidiabdallah/conkerbfdreloaded": {
+      "title": "Conker's Bad Fur Day Reloaded",
+      "local": "covers/readme-611b03c7ac60a5b3.webp",
+      "image_url": "https://raw.githubusercontent.com/DahSidiAbdallah/ConkerBFDReloaded/HEAD/docs/logo.png",
+      "readme_url": "https://raw.githubusercontent.com/DahSidiAbdallah/ConkerBFDReloaded/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:57.665Z"
+    },
+    "novapowers0/dbz-budokai-3-hd-collection": {
+      "title": "Dragon Ball Z: Budokai HD Collection",
+      "local": "covers/readme-1dcbdbf95549e332.webp",
+      "image_url": "https://raw.githubusercontent.com/novapowers0/DBZ-Budokai-3-HD-Collection/HEAD/docs/logo.png",
+      "readme_url": "https://raw.githubusercontent.com/novapowers0/DBZ-Budokai-3-HD-Collection/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:58.082Z"
+    },
+    "thiagolira/trouble-makers-pc-recomp": {
+      "title": "Mischief Makers",
+      "local": "covers/readme-aebe1cae99e238f1.webp",
+      "image_url": "https://raw.githubusercontent.com/ThiagoLira/trouble-makers-pc-recomp/HEAD/screenshots/hero-widescreen.png",
+      "readme_url": "https://raw.githubusercontent.com/ThiagoLira/trouble-makers-pc-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:58.204Z"
+    },
+    "jorjbarbosa/naruto-rise-recomp": {
+      "title": "Naruto: Rise of a Ninja",
+      "local": "covers/readme-e9b73c9f6d1ee0f7.webp",
+      "image_url": "https://raw.githubusercontent.com/jorjbarbosa/naruto-rise-recomp/HEAD/docs/assets/naruto-rise-logo.png",
+      "readme_url": "https://raw.githubusercontent.com/jorjbarbosa/naruto-rise-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:58.230Z"
+    },
+    "saulob/crackdown-xbox360-recompiled": {
+      "title": "Crackdown",
+      "local": "covers/readme-6b6d72f12d1c305c.webp",
+      "image_url": "https://github.com/user-attachments/assets/1e8867e4-a351-4c86-b9b5-edeb35645009",
+      "readme_url": "https://raw.githubusercontent.com/saulob/crackdown-xbox360-recompiled/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:58.254Z"
+    },
+    "elyosh/openxvt": {
+      "title": "OpenXvT",
+      "local": "covers/readme-6a8d9a24f92c78aa.webp",
+      "image_url": "https://raw.githubusercontent.com/elyosh/OpenXvT/HEAD/assets/openxvt-001.jpg",
+      "readme_url": "https://raw.githubusercontent.com/elyosh/OpenXvT/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:58.476Z"
+    },
+    "saulob/geometry-wars-retro-evolved-2-recompiled": {
+      "title": "Geometry Wars: Retro Evolved 2",
+      "local": "covers/readme-93d33e099b1aa831.webp",
+      "image_url": "https://github.com/user-attachments/assets/4186f8c0-a249-44a6-8f37-7f67c4034705",
+      "readme_url": "https://raw.githubusercontent.com/saulob/geometry-wars-retro-evolved-2-recompiled/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:58.561Z"
+    },
+    "elyosh/openxwa": {
+      "title": "OpenXWA",
+      "local": "covers/readme-0dc9a0f02c2ad8b1.webp",
+      "image_url": "https://raw.githubusercontent.com/elyosh/OpenXWA/HEAD/assets/openxwa_hangar.jpg",
+      "readme_url": "https://raw.githubusercontent.com/elyosh/OpenXWA/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:58.619Z"
+    },
+    "clickingmaster/ssrecomp": {
+      "title": "Pokémon SoulSilver",
+      "local": "covers/readme-c4085573431e1bf0.webp",
+      "image_url": "https://raw.githubusercontent.com/ClickingMaster/ssrecomp/HEAD/docs/screenshots/route-widescreen.png",
+      "readme_url": "https://raw.githubusercontent.com/ClickingMaster/ssrecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:58.632Z"
+    },
+    "sirhalo23/ridgeracer6-recompilation": {
+      "title": "Ridge Racer 6",
+      "local": "covers/readme-a48e25dd7cd54e16.webp",
+      "image_url": "https://raw.githubusercontent.com/Sirhalo23/RidgeRacer6-Recompilation/HEAD/docs/images/banner.png",
+      "readme_url": "https://raw.githubusercontent.com/Sirhalo23/RidgeRacer6-Recompilation/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:58.878Z"
+    },
+    "mstan/sonic3andknucklesrecomp": {
+      "title": "Sonic 3 & Knuckles",
+      "local": "covers/readme-72fea18d4f388377.webp",
+      "image_url": "https://raw.githubusercontent.com/mstan/Sonic3AndKnucklesRecomp/HEAD/docs/images/zones/showcase.png",
+      "readme_url": "https://raw.githubusercontent.com/mstan/Sonic3AndKnucklesRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:59.030Z"
+    },
+    "fataldecomp/roller": {
+      "title": "Roller",
+      "local": "covers/readme-e92a7ba8fd74afd5.webp",
+      "image_url": "https://img.youtube.com/vi/JvoiQTRjt88/maxresdefault.jpg",
+      "readme_url": "https://raw.githubusercontent.com/FatalDecomp/ROLLER/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:59.116Z"
+    },
+    "yuutatsubasa/free-riders-recompiled": {
+      "title": "Sonic Free Riders",
+      "local": "covers/readme-53d65e8f95c0d2bc.webp",
+      "image_url": "https://raw.githubusercontent.com/YuutaTsubasa/Free-Riders-Recompiled/HEAD/docs/images/camera-input-skeleton.png",
+      "readme_url": "https://raw.githubusercontent.com/YuutaTsubasa/Free-Riders-Recompiled/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:59.143Z"
+    },
+    "saulob/hard-corps-uprising-recompiled": {
+      "title": "Hard Corps: Uprising",
+      "local": "covers/readme-7b8f8ef250f60102.webp",
+      "image_url": "https://github.com/user-attachments/assets/bff13f4f-3a4e-488d-8cf0-1b6cde1c0875",
+      "readme_url": "https://raw.githubusercontent.com/saulob/hard-corps-uprising-recompiled/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:59.151Z"
+    },
+    "sm35recomp/sm35recomp": {
+      "title": "Super Mario Bros. 35 (SM35 Recomp)",
+      "local": "covers/readme-798fc41bf9e72539.webp",
+      "image_url": "https://raw.githubusercontent.com/sm35recomp/sm35recomp/HEAD/docs/screenshots/menu.jpg",
+      "readme_url": "https://raw.githubusercontent.com/sm35recomp/sm35recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:59.327Z"
+    },
+    "mr-finster/stunts-hd": {
+      "title": "Stunts (Stunts HD)",
+      "local": "covers/readme-d1fbc4f25ddfb66a.webp",
+      "image_url": "https://raw.githubusercontent.com/mr-finster/stunts-hd/HEAD/stunts/logo-hd.png",
+      "readme_url": "https://raw.githubusercontent.com/mr-finster/stunts-hd/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:59.428Z"
+    },
+    "mstan/supermetroidrecomp": {
+      "title": "Super Metroid",
+      "local": "covers/readme-844c5b21b7ec8629.webp",
+      "image_url": "https://raw.githubusercontent.com/mstan/SuperMetroidRecomp/HEAD/docs/images/widescreen-landing-site.png",
+      "readme_url": "https://raw.githubusercontent.com/mstan/SuperMetroidRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:59.485Z"
+    },
+    "shihabal3amri/tekken-tag-tournament-2-pc": {
+      "title": "Tekken Tag Tournament 2",
+      "local": "covers/readme-86df62e43b80e85e.webp",
+      "image_url": "https://raw.githubusercontent.com/shihabal3amri/tekken-tag-tournament-2-pc/HEAD/.github/assets/screens/00-hero-lei-china.jpg",
+      "readme_url": "https://raw.githubusercontent.com/shihabal3amri/tekken-tag-tournament-2-pc/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:59.495Z"
+    },
+    "zakypew/epoch-equinox": {
+      "title": "The Legend of Zelda: Oracle of Ages / Oracle of Seasons",
+      "local": "covers/readme-bebfddcf8bf393a8.webp",
+      "image_url": "https://raw.githubusercontent.com/ZakyPew/epoch-equinox/HEAD/docs/achievement-toast.png",
+      "readme_url": "https://raw.githubusercontent.com/ZakyPew/epoch-equinox/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:59.737Z"
+    },
+    "mr-finster/vf1-recomp": {
+      "title": "Virtua Fighter (Virtua Fighter Recomp)",
+      "local": "covers/readme-0d721c0fae361c20.webp",
+      "image_url": "https://vf1-recomp.pages.dev/img/montage.jpg?v=2",
+      "readme_url": "https://raw.githubusercontent.com/mr-finster/vf1-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:59.815Z"
+    },
+    "mr-finster/vf2-recomp": {
+      "title": "Virtua Fighter 2",
+      "local": "covers/readme-52604cc6be386f35.webp",
+      "image_url": "https://vf2-recomp.pages.dev/img/montage.jpg",
+      "readme_url": "https://raw.githubusercontent.com/mr-finster/vf2-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:00:59.966Z"
+    },
+    "neuromancer/wc1-re": {
+      "title": "wc1-re",
+      "local": "covers/readme-7df22c707173bad4.webp",
+      "image_url": "https://raw.githubusercontent.com/neuromancer/wc1-re/HEAD/screenshots/mission-briefing.png",
+      "readme_url": "https://raw.githubusercontent.com/neuromancer/wc1-re/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:00.015Z"
+    },
+    "neuromancer/wc2-re": {
+      "title": "wc2-re",
+      "local": "covers/readme-42fc0a5ce52c540e.webp",
+      "image_url": "https://raw.githubusercontent.com/neuromancer/wc2-re/HEAD/screenshots/title-screen.png",
+      "readme_url": "https://raw.githubusercontent.com/neuromancer/wc2-re/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:00.074Z"
+    },
+    "mr-finster/vf3-recomp": {
+      "title": "Virtua Fighter 3",
+      "local": "covers/readme-2435ca1c155d110e.webp",
+      "image_url": "https://raw.githubusercontent.com/mr-finster/vf3-recomp/HEAD/assets/icon/icon.png",
+      "readme_url": "https://raw.githubusercontent.com/mr-finster/vf3-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:00.243Z"
+    },
+    "hollywoodakeem/svr07-recomp": {
+      "title": "WWE SmackDown vs. Raw 2007",
+      "local": "covers/readme-1ad4f4dd502a6057.webp",
+      "image_url": "https://raw.githubusercontent.com/HollywoodAkeem/SVR07-Recomp/HEAD/docs/images/logo.png",
+      "readme_url": "https://raw.githubusercontent.com/HollywoodAkeem/SVR07-Recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:00.351Z"
+    },
+    "kaikoclanworth1/wwe-svr2011-pc": {
+      "title": "WWE SmackDown vs. Raw 2011",
+      "local": "covers/readme-4b359b1f6b622b7d.webp",
+      "image_url": "https://raw.githubusercontent.com/KaikoClanworth1/wwe-svr2011-pc/HEAD/docs/screenshots/title.jpg",
+      "readme_url": "https://raw.githubusercontent.com/KaikoClanworth1/wwe-svr2011-pc/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:00.383Z"
+    },
+    "nikolaygorb/armyoftworecomp": {
+      "title": "Army of Two",
+      "local": "covers/readme-875dd90a69248cab.webp",
+      "image_url": "https://raw.githubusercontent.com/nikolaygorb/ArmyOfTwoRecomp/HEAD/assets/icon.png",
+      "readme_url": "https://raw.githubusercontent.com/nikolaygorb/ArmyOfTwoRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:00.693Z"
+    },
+    "sp00nznet/redalert2-recomp": {
+      "title": "Command & Conquer: Red Alert 2 (redalert2-recomp)",
+      "local": "covers/readme-f3039a14994700a9.webp",
+      "image_url": "https://raw.githubusercontent.com/sp00nznet/redalert2-recomp/HEAD/docs/screenshots/main-menu.png",
+      "readme_url": "https://raw.githubusercontent.com/sp00nznet/redalert2-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:00.741Z"
+    },
+    "official-kryo-to/ctw-native": {
+      "title": "CTW-Native",
+      "local": "covers/readme-b6d8a129a48e1639.webp",
+      "image_url": "https://raw.githubusercontent.com/official-kryo-to/ctw-native/HEAD/porter/public/art/logo.webp",
+      "readme_url": "https://raw.githubusercontent.com/official-kryo-to/ctw-native/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:00.827Z"
+    },
+    "neuviemeporte/f15se2-re": {
+      "title": "F-15 II",
+      "local": "covers/readme-871653cb193688f8.webp",
+      "image_url": "https://raw.githubusercontent.com/neuviemeporte/f15se2-re/HEAD/screenshots/title.png",
+      "readme_url": "https://raw.githubusercontent.com/neuviemeporte/f15se2-re/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:00.828Z"
+    },
+    "distilledorion-sketch/initial-d-arcade-stage-3-native-sh-4-recompilation-wip-": {
+      "title": "Initial D Arcade Stage Ver.3",
+      "local": "covers/readme-3a62c29759c9d46e.webp",
+      "image_url": "https://raw.githubusercontent.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Native-SH-4-Recompilation-WIP-/HEAD/docs/media/project-logo.png",
+      "readme_url": "https://raw.githubusercontent.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Native-SH-4-Recompilation-WIP-/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:01.195Z"
+    },
+    "codepdbh/psprecomp-vcs-android": {
+      "title": "Grand Theft Auto: Vice City Stories (PSPRecomp-VCS-Android)",
+      "local": "covers/readme-ab26a9c40e356f3f.webp",
+      "image_url": "https://raw.githubusercontent.com/codepdbh/PSPRecomp-VCS-Android/HEAD/assets/branding/icono.png",
+      "readme_url": "https://raw.githubusercontent.com/codepdbh/PSPRecomp-VCS-Android/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:01.230Z"
+    },
+    "goliathret/edgeoftimerecomp": {
+      "title": "Edge Of Time Recomp",
+      "local": "covers/readme-ca08cba5cbd300bd.webp",
+      "image_url": "https://raw.githubusercontent.com/goliathret/EdgeOfTimeRecomp/HEAD/docs/image.png",
+      "readme_url": "https://raw.githubusercontent.com/goliathret/EdgeOfTimeRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:01.277Z"
+    },
+    "mstan/mariotennisvirtualboyrecomp": {
+      "title": "Mario's Tennis",
+      "local": "covers/readme-ad8ffeeb7779917e.webp",
+      "image_url": "https://raw.githubusercontent.com/mstan/MarioTennisVirtualBoyRecomp/HEAD/color-video-gameplay.png",
+      "readme_url": "https://raw.githubusercontent.com/mstan/MarioTennisVirtualBoyRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:01.680Z"
+    },
+    "dyzz/srw64-recomp": {
+      "title": "Super Robot Wars 64",
+      "local": "covers/readme-61368fdb1497292b.webp",
+      "image_url": "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/media/compare-hd-en.webp",
+      "readme_url": "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:02.117Z"
+    },
+    "zenit2893-cmyk/project-1944": {
+      "title": "Call of Duty 3",
+      "local": "covers/readme-4959758eeb95dfc1.webp",
+      "image_url": "https://raw.githubusercontent.com/zenit2893-cmyk/project-1944/HEAD/launcher/assets/hero.jpg",
+      "readme_url": "https://raw.githubusercontent.com/zenit2893-cmyk/project-1944/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:02.142Z"
+    },
+    "mabec-games/iss2000-recomp": {
+      "title": "Mabecs International Superstar Soccer 2000",
+      "local": "covers/readme-18b742845bf7f3d5.webp",
+      "image_url": "https://raw.githubusercontent.com/Mabec-games/iss2000-recomp/HEAD/docs/screenshot-widescreen.jpg",
+      "readme_url": "https://raw.githubusercontent.com/Mabec-games/iss2000-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:02.528Z"
+    },
+    "elyosh/openxw": {
+      "title": "OpenXW",
+      "local": "covers/readme-dc3abd49f281caaf.webp",
+      "image_url": "https://raw.githubusercontent.com/elyosh/OpenXW/HEAD/assets/openxw-002.jpg",
+      "readme_url": "https://raw.githubusercontent.com/elyosh/OpenXW/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:02.746Z"
+    },
+    "mstan/pokemonredandbluerecomp": {
+      "title": "Pokémon Red and Blue (PokemonRedAndBlueRecomp)",
+      "local": "covers/readme-5b9686318e73eaeb.webp",
+      "image_url": "https://img.youtube.com/vi/pEgJCTf7kgY/0.jpg",
+      "readme_url": "https://raw.githubusercontent.com/mstan/PokemonRedAndBlueRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:02.893Z"
+    },
+    "gtteancum/sote-recomp": {
+      "title": "Star Wars: Shadows of the Empire",
+      "local": "covers/readme-8e581a526cf4c2ea.webp",
+      "image_url": "https://raw.githubusercontent.com/GTTeancum/SotE-Recomp/HEAD/docs/screenshots/main_menu.png",
+      "readme_url": "https://raw.githubusercontent.com/GTTeancum/SotE-Recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:03.091Z"
+    },
+    "tmcleroy/vampire-savior-recomp": {
+      "title": "Vampire Savior: The Lord of Vampire",
+      "local": "covers/readme-a1c8d3df33338103.webp",
+      "image_url": "https://raw.githubusercontent.com/tmcleroy/vampire-savior-recomp/HEAD/docs/screenshots/title.png",
+      "readme_url": "https://raw.githubusercontent.com/tmcleroy/vampire-savior-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:03.476Z"
+    },
+    "jessetbh/wcwvsnwoworldtourrecomp": {
+      "title": "WCW vs. nWo: World Tour",
+      "local": "covers/readme-f975e609317a6a33.webp",
+      "image_url": "https://raw.githubusercontent.com/jessetbh/WCWvsNWOWorldTourRecomp/HEAD/docs/screenshots/gameplay.png",
+      "readme_url": "https://raw.githubusercontent.com/jessetbh/WCWvsNWOWorldTourRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:03.623Z"
+    },
+    "jessetbh/wwfnomercyrecomp": {
+      "title": "WWF No Mercy",
+      "local": "covers/readme-252a915480baecdb.webp",
+      "image_url": "https://raw.githubusercontent.com/jessetbh/WWFNoMercyRecomp/HEAD/docs/screenshots/gameplay.png",
+      "readme_url": "https://raw.githubusercontent.com/jessetbh/WWFNoMercyRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:03.642Z"
+    },
+    "mstan/supermarioland2recomp": {
+      "title": "Super Mario Land 2: 6 Golden Coins (SuperMarioLand2Recomp)",
+      "local": "covers/readme-f2389b69c82f5720.webp",
+      "image_url": "https://raw.githubusercontent.com/mstan/SuperMarioLand2Recomp/HEAD/docs/screenshots/dx-widescreen-32x9-scroll.png",
+      "readme_url": "https://raw.githubusercontent.com/mstan/SuperMarioLand2Recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:03.726Z"
+    },
+    "chunchunq/fifa09-recomp": {
+      "title": "FIFA 09 (FIFA 09 PC)",
+      "local": "covers/readme-4804472ebfad88c3.webp",
+      "image_url": "https://raw.githubusercontent.com/ChunchunQ/fifa09-recomp/HEAD/docs/images/match.jpg",
+      "readme_url": "https://raw.githubusercontent.com/ChunchunQ/fifa09-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:03.863Z"
+    },
+    "andrebrumdev/gow2-recomp": {
+      "title": "God of War II HD",
+      "local": "covers/readme-7723ab907df6fce4.webp",
+      "image_url": "https://raw.githubusercontent.com/andrebrumdev/gow2-recomp/HEAD/docs/img/palace-combat.jpg",
+      "readme_url": "https://raw.githubusercontent.com/andrebrumdev/gow2-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:04.080Z"
+    },
+    "dogparty/ipodclickwheelrecomps": {
+      "title": "Lost (iPodClickWheelRecomps)",
+      "local": "covers/readme-1dcead49c0317d62.webp",
+      "image_url": "https://raw.githubusercontent.com/DogParty/iPodClickWheelRecomps/HEAD/docs/screenshots/mini-golf.png",
+      "readme_url": "https://raw.githubusercontent.com/DogParty/iPodClickWheelRecomps/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:04.231Z"
+    },
+    "elliotttate/wave-race-64-recomp": {
+      "title": "Wave Race 64",
+      "local": "covers/readme-3682e4128463d4ca.webp",
+      "image_url": "https://i.ytimg.com/vi/3uaqfG4Wzcg/hqdefault.jpg",
+      "readme_url": "https://raw.githubusercontent.com/elliotttate/wave-race-64-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:04.386Z"
+    },
+    "zloikiller/nfs3recompiled-android": {
+      "title": "Need for Speed III: Hot Pursuit (nfs3recompiled-android)",
+      "local": "covers/readme-f8156be9a5b783ea.webp",
+      "image_url": "https://raw.githubusercontent.com/ZloiKILLER/nfs3recompiled-android/HEAD/screenshots/title.jpg",
+      "readme_url": "https://raw.githubusercontent.com/ZloiKILLER/nfs3recompiled-android/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:04.387Z"
+    },
+    "carl0srmz/littleplanet": {
+      "title": "Sonic CD (Little Planet)",
+      "local": "covers/readme-1d3bb08bd3774cf4.webp",
+      "image_url": "https://raw.githubusercontent.com/carl0srmz/littleplanet/HEAD/res/screens/crt.png",
+      "readme_url": "https://raw.githubusercontent.com/carl0srmz/littleplanet/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:04.510Z"
+    },
+    "jackrushante/dbz-super-saiya-densetsu-rust": {
+      "title": "Dragon Ball Z: Super Saiya Densetsu",
+      "local": "covers/readme-93ab62c72e708217.webp",
+      "image_url": "https://raw.githubusercontent.com/JackRushante/DBZ-Super-Saiya-Densetsu-Rust/HEAD/docs/media/cmp-07-cheats-remastered.png",
+      "readme_url": "https://raw.githubusercontent.com/JackRushante/DBZ-Super-Saiya-Densetsu-Rust/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:05.080Z"
+    },
+    "mstan/zeroracersvirtualboyrecomp": {
+      "title": "Zero Racers",
+      "local": "covers/readme-489dd225c1c13001.webp",
+      "image_url": "https://raw.githubusercontent.com/mstan/ZeroRacersVirtualBoyRecomp/HEAD/docs/multiplayer-2p-split.png",
+      "readme_url": "https://raw.githubusercontent.com/mstan/ZeroRacersVirtualBoyRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:05.623Z"
+    },
+    "faligame/parasite-eve-2-hd-remaster": {
+      "title": "Parasite Eve II",
+      "local": "covers/readme-f3f096edb7edd59a.webp",
+      "image_url": "https://raw.githubusercontent.com/faligame/Parasite-Eve-2-HD-Remaster/HEAD/media/video_thumbnail.jpg",
+      "readme_url": "https://raw.githubusercontent.com/faligame/Parasite-Eve-2-HD-Remaster/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:05.644Z"
+    },
+    "swaymun/ac-recomp": {
+      "title": "Astral Chain (AC-Recomp)",
+      "local": "covers/readme-70449a5d38671b3d.webp",
+      "image_url": "https://raw.githubusercontent.com/swaymun/AC-Recomp/HEAD/assets/launcher/start_screen.jpg",
+      "readme_url": "https://raw.githubusercontent.com/swaymun/AC-Recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:05.923Z"
+    },
+    "aureliob/banjorecomp-android": {
+      "title": "Banjo-Kazooie (Banjo: Recompiled [Android Port])",
+      "local": "covers/readme-edaf4c80180e1e8b.webp",
+      "image_url": "https://raw.githubusercontent.com/AurelioB/BanjoRecomp-Android/HEAD/docs/assets/android-dual-screen/main-menu-primary.png",
+      "readme_url": "https://raw.githubusercontent.com/AurelioB/BanjoRecomp-Android/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:06.102Z"
+    },
+    "maxilure/mindover-recomp": {
+      "title": "Crash: Mind over Mutant",
+      "local": "covers/readme-76549307bed196a3.webp",
+      "image_url": "https://raw.githubusercontent.com/Maxilure/MindOver-Recomp/HEAD/docs/images/readme-hero-desert.jpg",
+      "readme_url": "https://raw.githubusercontent.com/Maxilure/MindOver-Recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:06.284Z"
+    },
+    "bifftannen1/dead-space-2-recomp": {
+      "title": "Dead Space 2",
+      "local": "covers/readme-4a3679b7b1f27b63.webp",
+      "image_url": "https://raw.githubusercontent.com/bifftannen1/Dead-Space-2-Recomp/HEAD/docs/img/header.jpg",
+      "readme_url": "https://raw.githubusercontent.com/bifftannen1/Dead-Space-2-Recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:06.413Z"
+    },
+    "deivid22srk/pinyon-shift-android": {
+      "title": "Forza Horizon",
+      "local": "covers/readme-6dc2cfb1281c9cb4.webp",
+      "image_url": "https://raw.githubusercontent.com/deivid22srk/pinyon-shift-android/HEAD/.github/pinyon-shift-banner.png",
+      "readme_url": "https://raw.githubusercontent.com/deivid22srk/pinyon-shift-android/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:06.558Z"
+    },
+    "alexbeav/fm4-recomp": {
+      "title": "Forza Motorsport 4",
+      "local": "covers/readme-cd65ec66243441dd.webp",
+      "image_url": "https://raw.githubusercontent.com/Alexbeav/fm4-recomp/HEAD/assets/fm4-recompiled-hero.png",
+      "readme_url": "https://raw.githubusercontent.com/Alexbeav/fm4-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:06.599Z"
+    },
+    "saulob/ssf2t-hd-remix-recompiled": {
+      "title": "Super Street Fighter II Turbo HD Remix",
+      "local": "covers/readme-ffb3c23595ed7946.webp",
+      "image_url": "https://github.com/user-attachments/assets/d52ee275-da0b-4860-ae1d-24216df5b05f",
+      "readme_url": "https://raw.githubusercontent.com/saulob/ssf2t-hd-remix-recompiled/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:06.853Z"
+    },
+    "gtteancum/openh3m": {
+      "title": "Halo 3: Mythic",
+      "local": "covers/readme-57c036aef711cf2a.webp",
+      "image_url": "https://raw.githubusercontent.com/GTTeancum/OpenH3M/HEAD/docs/images/last-resort-four-player.png",
+      "readme_url": "https://raw.githubusercontent.com/GTTeancum/OpenH3M/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:06.864Z"
+    },
+    "doc-haz/infinite-undiscovery-recomp": {
+      "title": "Infinite Undiscovery",
+      "local": "covers/readme-73886de6fbdffb91.webp",
+      "image_url": "https://raw.githubusercontent.com/doc-haz/infinite-undiscovery-recomp/HEAD/docs/images/banner.png",
+      "readme_url": "https://raw.githubusercontent.com/doc-haz/infinite-undiscovery-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:06.922Z"
+    },
+    "luisxl15/midnight-club-l.a-recomp": {
+      "title": "Midnight Club: Los Angeles",
+      "local": "covers/readme-682b6194283e8d8d.webp",
+      "image_url": "https://raw.githubusercontent.com/luisxl15/Midnight-Club-L.A-RECOMP/HEAD/midnight_recomp.png",
+      "readme_url": "https://raw.githubusercontent.com/luisxl15/Midnight-Club-L.A-RECOMP/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:07.034Z"
+    },
+    "motor-dev/nfs-recompiled": {
+      "title": "Need for Speed II: Special Edition / Need for Speed III: Hot Pursuit",
+      "local": "covers/readme-02d7b17ce77378f2.webp",
+      "image_url": "https://raw.githubusercontent.com/motor-dev/nfs-recompiled/HEAD/screenshots/nfsiise-1.png",
+      "readme_url": "https://raw.githubusercontent.com/motor-dev/nfs-recompiled/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:07.164Z"
+    },
+    "coccofresco/mgsone-recomp": {
+      "title": "Metal Gear Solid (mgsone-recomp)",
+      "local": "covers/readme-6637261a989efd0a.webp",
+      "image_url": "https://raw.githubusercontent.com/coccofresco/mgsone-recomp/HEAD/docs/images/mgsone-header.png",
+      "readme_url": "https://raw.githubusercontent.com/coccofresco/mgsone-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:07.279Z"
+    },
+    "nycolazs/eowrecomp": {
+      "title": "The Legend of Zelda: Echoes of Wisdom (EoWRecomp)",
+      "local": "covers/readme-2ba80e08fb4590e9.webp",
+      "image_url": "https://raw.githubusercontent.com/Nycolazs/EoWRecomp/HEAD/docs/screenshots/01_prologue.jpg",
+      "readme_url": "https://raw.githubusercontent.com/Nycolazs/EoWRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:07.672Z"
+    },
+    "r-drg/the-simpsons-game-nx": {
+      "title": "The Simpsons Game (the-simpsons-game-nx)",
+      "local": "covers/readme-addbd12a4c2a324b.webp",
+      "image_url": "https://raw.githubusercontent.com/R-drg/the-simpsons-game-nx/HEAD/src/game/switch/icon.jpg",
+      "readme_url": "https://raw.githubusercontent.com/R-drg/the-simpsons-game-nx/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:07.709Z"
+    },
+    "gtteancum/vigilante-8-recomp": {
+      "title": "Vigilante 8 / Vigilante 8: 2nd Offense",
+      "local": "covers/readme-8b9e8c2685bfa22c.webp",
+      "image_url": "https://img.youtube.com/vi/3hc6it7qC9M/hqdefault.jpg",
+      "readme_url": "https://raw.githubusercontent.com/GTTeancum/Vigilante-8-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:07.727Z"
+    },
+    "genrythefox0/project-iron-6": {
+      "title": "Tekken 6",
+      "local": "covers/readme-a7fa9efe904c9c67.webp",
+      "image_url": "https://raw.githubusercontent.com/GenryTheFox0/Project-Iron-6/HEAD/assets/project-iron-6-key-art.png",
+      "readme_url": "https://raw.githubusercontent.com/GenryTheFox0/Project-Iron-6/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:07.765Z"
+    },
+    "ronniecloud/re-wor": {
+      "title": "Guitar Hero: Warriors of Rock",
+      "local": "covers/readme-3029d52bf10ac4f5.webp",
+      "image_url": "https://github.com/user-attachments/assets/acde8277-e179-48aa-a379-329655ab4323",
+      "readme_url": "https://raw.githubusercontent.com/ronniecloud/re-wor/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:08.019Z"
+    },
+    "sp00nznet/vig8": {
+      "title": "Vigilante 8 Arcade",
+      "local": "covers/readme-79a1d88cb7bea799.webp",
+      "image_url": "https://raw.githubusercontent.com/sp00nznet/vig8/HEAD/docs/screenshots/combat.png",
+      "readme_url": "https://raw.githubusercontent.com/sp00nznet/vig8/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:08.100Z"
+    },
+    "mxmstr/burnout3recomp": {
+      "title": "Burnout 3",
+      "local": "covers/readme-313fef679bf83c1b.webp",
+      "image_url": "https://github.com/user-attachments/assets/394e2e44-c5da-4339-8346-52f1cb87c665",
+      "readme_url": "https://raw.githubusercontent.com/mxmstr/Burnout3Recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:08.656Z"
+    },
+    "gtteancum/openjam": {
+      "title": "NBA JAM: On Fire Edition",
+      "local": "covers/readme-226058949e51a9d8.webp",
+      "image_url": "https://raw.githubusercontent.com/GTTeancum/OpenJam/HEAD/screenshots/ingame_heat_vs_mavs.png",
+      "readme_url": "https://raw.githubusercontent.com/GTTeancum/OpenJam/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:08.659Z"
+    },
+    "supermedo/prince-of-persia-2-windows": {
+      "title": "Prince of Persia 2",
+      "local": "covers/readme-1e343887b4897182.webp",
+      "image_url": "https://raw.githubusercontent.com/Supermedo/prince-of-persia-2-windows/HEAD/docs/title.png",
+      "readme_url": "https://raw.githubusercontent.com/Supermedo/prince-of-persia-2-windows/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:08.763Z"
+    },
+    "faligame/parasite-eve-hd-remaster": {
+      "title": "Parasite Eve HD Remaster",
+      "local": "covers/readme-7dd0ed11dafa9466.webp",
+      "image_url": "https://raw.githubusercontent.com/faligame/Parasite-Eve-HD-Remaster/HEAD/media/screenshots/01_titulo.jpg",
+      "readme_url": "https://raw.githubusercontent.com/faligame/Parasite-Eve-HD-Remaster/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:09.320Z"
+    },
+    "maryncrt/ultimate-mortal-kombat-3-ios-decompiled": {
+      "title": "Ultimate MK3 iOS",
+      "local": "covers/readme-bffc886e968fff97.webp",
+      "image_url": "https://raw.githubusercontent.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled/HEAD/docs/img/banner.jpg",
+      "readme_url": "https://raw.githubusercontent.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:09.400Z"
+    },
+    "jessetbh/vpw2recomp": {
+      "title": "Virtual Pro Wrestling 2: Ōdō Keishō",
+      "local": "covers/readme-8ce20f9714564aae.webp",
+      "image_url": "https://raw.githubusercontent.com/jessetbh/VPW2Recomp/HEAD/docs/screenshots/gameplay.png",
+      "readme_url": "https://raw.githubusercontent.com/jessetbh/VPW2Recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:09.407Z"
+    },
+    "mikesemicolond/roguesquadron64recomp": {
+      "title": "Star Wars: Rogue Squadron",
+      "local": "covers/readme-d7004026b27f1d17.webp",
+      "image_url": "https://raw.githubusercontent.com/MikeSemicolonD/RogueSquadron64Recomp/HEAD/screenshots/Capture1.png",
+      "readme_url": "https://raw.githubusercontent.com/MikeSemicolonD/RogueSquadron64Recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:09.498Z"
+    },
+    "puddz/astralchain-pc": {
+      "title": "Astral Chain (Astral Chain PC)",
+      "local": "covers/readme-eb0ad9f85c4effbc.webp",
+      "image_url": "https://raw.githubusercontent.com/Puddz/AstralChain-PC/HEAD/docs/images/launcher.jpg",
+      "readme_url": "https://raw.githubusercontent.com/Puddz/AstralChain-PC/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:09.504Z"
+    },
+    "dothacktranslate/dothack-recompilation": {
+      "title": ".hack//Infection (Recompilation)",
+      "local": "covers/readme-725d70f34c607bc0.webp",
+      "image_url": "https://raw.githubusercontent.com/dothacktranslate/dothack-recompilation/HEAD/docs/assets/banner.png",
+      "readme_url": "https://raw.githubusercontent.com/dothacktranslate/dothack-recompilation/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:09.628Z"
+    },
+    "nerunsmarts/forzarecomp": {
+      "title": "Forza Horizon 1",
+      "local": "covers/readme-89c22f12b414910e.webp",
+      "image_url": "https://raw.githubusercontent.com/NerunSmarts/ForzaRecomp/HEAD/ForzaRecompResources/logo.png",
+      "readme_url": "https://raw.githubusercontent.com/NerunSmarts/ForzaRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:09.763Z"
+    },
+    "gtteancum/opengtps1": {
+      "title": "Gran Turismo 2",
+      "local": "covers/readme-bf29812b1cb07fab.webp",
+      "image_url": "https://raw.githubusercontent.com/GTTeancum/OpenGTPS1/HEAD/docs/images/opengtps1-0.9b-main-menu.png",
+      "readme_url": "https://raw.githubusercontent.com/GTTeancum/OpenGTPS1/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:09.847Z"
+    },
+    "sp00nznet/bw": {
+      "title": "Black & White",
+      "local": "covers/readme-e59029d38b739ae9.webp",
+      "image_url": "https://raw.githubusercontent.com/sp00nznet/bw/HEAD/docs/screenshots/land1-native-loader.png",
+      "readme_url": "https://raw.githubusercontent.com/sp00nznet/bw/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:10.361Z"
+    },
+    "canersaka/yakuza-dead-souls-recompiled": {
+      "title": "Yakuza: Dead Souls",
+      "local": "covers/readme-40c9ef295e486fc4.webp",
+      "image_url": "https://img.youtube.com/vi/ZuF8j5ozNis/maxresdefault.jpg",
+      "readme_url": "https://raw.githubusercontent.com/canersaka/Yakuza-Dead-Souls-Recompiled/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:10.362Z"
+    },
+    "sp00nznet/flow": {
+      "title": "flOw",
+      "local": "covers/readme-902c987626ee722c.webp",
+      "image_url": "https://raw.githubusercontent.com/sp00nznet/flow/HEAD/docs/flow_level3_rendering.png",
+      "readme_url": "https://raw.githubusercontent.com/sp00nznet/flow/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:10.567Z"
+    },
+    "sp00nznet/gta": {
+      "title": "Grand Theft Auto / GTA: London",
+      "local": "covers/readme-780c919b3c795db8.webp",
+      "image_url": "https://raw.githubusercontent.com/sp00nznet/gta/HEAD/docs/title_screen.png",
+      "readme_url": "https://raw.githubusercontent.com/sp00nznet/gta/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:10.696Z"
+    },
+    "dyotson/recompiledhaloreach": {
+      "title": "Halo: Reach",
+      "local": "covers/readme-69442a922d2e0df8.webp",
+      "image_url": "https://raw.githubusercontent.com/Dyotson/RecompiledHaloReach/HEAD/docs/images/reach-firefight-gameplay.jpg",
+      "readme_url": "https://raw.githubusercontent.com/Dyotson/RecompiledHaloReach/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:10.839Z"
+    },
+    "hamishakl/libertyrecomp": {
+      "title": "Grand Theft Auto IV (LibertyRecomp)",
+      "local": "covers/readme-a3d6ce0a61fed91b.webp",
+      "image_url": "https://raw.githubusercontent.com/hamishakl/LibertyRecomp/HEAD/docs/images/perf_liberty_metal_m4.png",
+      "readme_url": "https://raw.githubusercontent.com/hamishakl/LibertyRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:11.223Z"
+    },
+    "xdanfr/raymanoriginsrecomp": {
+      "title": "Rayman Origins",
+      "local": "covers/readme-4ce8fc29b5b28ce2.webp",
+      "image_url": "https://raw.githubusercontent.com/XDanfr/RaymanOriginsRecomp/HEAD/docs/media/android-s23-native-gameplay.jpg",
+      "readme_url": "https://raw.githubusercontent.com/XDanfr/RaymanOriginsRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:11.353Z"
+    },
+    "jhuyghue/donburi-recomp": {
+      "title": "TwinBee PARADISE in Donburi Shima",
+      "local": "covers/readme-2375751b92887ec8.webp",
+      "image_url": "https://raw.githubusercontent.com/Jhuyghue/donburi-recomp/HEAD/Docs/Images/Overview/Title_screen.png",
+      "readme_url": "https://raw.githubusercontent.com/Jhuyghue/donburi-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:11.653Z"
+    },
+    "spita90/konami-viper-recomp": {
+      "title": "Thrill Drive 2 (konami-viper-recomp)",
+      "local": "covers/readme-aae8752647e5d477.webp",
+      "image_url": "https://raw.githubusercontent.com/spita90/konami-viper-recomp/HEAD/docs/images/enhanced-td2-menu.png",
+      "readme_url": "https://raw.githubusercontent.com/spita90/konami-viper-recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:11.789Z"
+    },
+    "crabinacrabic/vivapinatarecomp": {
+      "title": "Viva Piñata",
+      "local": "covers/readme-f17b2b2f0380ec40.webp",
+      "image_url": "https://raw.githubusercontent.com/crabinacrabic/VivaPinataRecomp/HEAD/docs/images/title_screen.jpg",
+      "readme_url": "https://raw.githubusercontent.com/crabinacrabic/VivaPinataRecomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:11.869Z"
+    },
+    "sp00nznet/simpsonsarcade-ps3": {
+      "title": "The Simpsons Arcade Game",
+      "local": "covers/readme-bdb5b9e19212f2d4.webp",
+      "image_url": "https://raw.githubusercontent.com/sp00nznet/simpsonsarcade-ps3/HEAD/docs/media/04-main-menu.png",
+      "readme_url": "https://raw.githubusercontent.com/sp00nznet/simpsonsarcade-ps3/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:11.950Z"
+    },
+    "wk2d/white-knight-chronicles-2-recomp": {
+      "title": "White Knight Chronicles II (White Knight Chronicles II Recomp)",
+      "local": "covers/readme-709829b62d23b754.webp",
+      "image_url": "https://raw.githubusercontent.com/WK2D/White-Knight-Chronicles-2-Recomp/HEAD/verification/screenshots/2026-10-22-native-geometry-chain-street.png",
+      "readme_url": "https://raw.githubusercontent.com/WK2D/White-Knight-Chronicles-2-Recomp/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:12.045Z"
+    },
+    "testdriveupgrade/tdure": {
+      "title": "Test Drive Unlimited",
+      "local": "covers/readme-fac1631c0a40253e.webp",
+      "image_url": "https://raw.githubusercontent.com/testdriveupgrade/TDURE/HEAD/image.webp",
+      "readme_url": "https://raw.githubusercontent.com/testdriveupgrade/TDURE/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:12.836Z"
+    },
+    "sp00nznet/saintsrow": {
+      "title": "Saints Row",
+      "local": "covers/readme-2d19cb1def4eeb57.webp",
+      "image_url": "https://raw.githubusercontent.com/sp00nznet/saintsrow/HEAD/docs/screenshots/main-menu.png",
+      "readme_url": "https://raw.githubusercontent.com/sp00nznet/saintsrow/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:13.194Z"
+    },
+    "rinnegatamante/crash-team-racing-high-octane": {
+      "title": "Crash Team Racing (High Octane)",
+      "local": "covers/readme-06bc55f6aa56bb06.webp",
+      "image_url": "https://raw.githubusercontent.com/Rinnegatamante/Crash-Team-Racing-High-Octane/HEAD/screenshots/game1.jpg",
+      "readme_url": "https://raw.githubusercontent.com/Rinnegatamante/Crash-Team-Racing-High-Octane/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:13.247Z"
+    },
+    "lesca-191204/killzone-shadowfall-pc": {
+      "title": "Killzone: Shadow Fall (killzone-shadowfall-pc)",
+      "local": "covers/readme-bc574c4fe0d2ef6a.webp",
+      "image_url": "https://raw.githubusercontent.com/lesca-191204/killzone-shadowfall-pc/HEAD/docs/images/fov-100.jpg",
+      "readme_url": "https://raw.githubusercontent.com/lesca-191204/killzone-shadowfall-pc/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:14.003Z"
+    },
+    "henrique194/chocolate-quake": {
+      "title": "Chocolate Quake",
+      "local": "covers/readme-d2811b8db23b4bf2.webp",
+      "image_url": "https://github.com/user-attachments/assets/d3a97598-2b15-4ed0-92f1-bf5d98015cb7",
+      "readme_url": "https://raw.githubusercontent.com/Henrique194/chocolate-quake/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:14.418Z"
+    },
+    "yancharkin/spelunkyclassichd": {
+      "title": "Spelunky (ported build from released source))",
+      "local": "covers/readme-1fd57278b42da14d.webp",
+      "image_url": "https://raw.githubusercontent.com/yancharkin/SpelunkyClassicHD/HEAD/screenshots/screenshot_00.png",
+      "readme_url": "https://raw.githubusercontent.com/yancharkin/SpelunkyClassicHD/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:14.464Z"
+    },
+    "thextech/thextech": {
+      "title": "Super Mario Bros. X (TheXTech)",
+      "local": "covers/readme-2de5f29d0c6f20e5.webp",
+      "image_url": "https://raw.githubusercontent.com/Wohlstand/TheXTech/master/resources/icon/thextech_512.png",
+      "readme_url": "https://raw.githubusercontent.com/TheXTech/TheXTech/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:14.647Z"
+    },
+    "glkarin/com.n0n3m4.diii4a": {
+      "title": "idTech4A++ (Harmattan Edition)",
+      "local": "covers/readme-2b13c21a26602a1b.webp",
+      "image_url": "https://github.com/glKarin/com.n0n3m4.diii4a/raw/package/screenshot/Screenshot_doom3_bathroom.png",
+      "readme_url": "https://raw.githubusercontent.com/glKarin/com.n0n3m4.diii4a/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:14.783Z"
+    },
+    "estebanpdn/zelda-alttp-3ds": {
+      "title": "The Legend of Zelda: A Link to the Past",
+      "local": "covers/readme-477fda45b2ec7c03.webp",
+      "image_url": "https://raw.githubusercontent.com/EstebanPdN/zelda-alttp-3ds/HEAD/docs/images/showcase-rounded.webp",
+      "readme_url": "https://raw.githubusercontent.com/EstebanPdN/zelda-alttp-3ds/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:14.824Z"
+    },
+    "getlostin/ctr-nitrofueled-pc": {
+      "title": "Crash Team Racing Nitro-Fueled",
+      "local": "covers/readme-fa3ca525dd58284e.webp",
+      "image_url": "https://raw.githubusercontent.com/GetLostIn/CTR-NitroFueled-PC/HEAD/docs/images/logo.png",
+      "readme_url": "https://raw.githubusercontent.com/GetLostIn/CTR-NitroFueled-PC/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:15.177Z"
+    },
+    "ryu7w7/octr-nitrofueled-pc": {
+      "title": "Crash Team Racing Nitro-Fueled (OCTR: Online CTR Nitro-Fueled PC)",
+      "local": "covers/readme-838517a29556090d.webp",
+      "image_url": "https://raw.githubusercontent.com/Ryu7w7/OCTR-NitroFueled-PC/HEAD/docs/images/logo.png",
+      "readme_url": "https://raw.githubusercontent.com/Ryu7w7/OCTR-NitroFueled-PC/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:15.179Z"
+    },
+    "team-beef-studios/doom3quest": {
+      "title": "Doom 3 (Doom3Quest)",
+      "local": "covers/readme-288e45add211e2b2.webp",
+      "image_url": "https://raw.githubusercontent.com/DrBeef/Doom3Quest/master/app/src/main/assets/firelogo.jpg",
+      "readme_url": "https://raw.githubusercontent.com/Team-Beef-Studios/Doom3Quest/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:15.301Z"
+    },
+    "bc160201983/medievil_2019_pc_port": {
+      "title": "MediEvil",
+      "local": "covers/readme-fa1d620f27316a1a.webp",
+      "image_url": "https://raw.githubusercontent.com/bc160201983/medievil_2019_pc_port/HEAD/docs/screenshots/graveyard.jpg",
+      "readme_url": "https://raw.githubusercontent.com/bc160201983/medievil_2019_pc_port/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:15.544Z"
+    },
+    "dubrovskiy-yevhen-stakelogic/gt-2-pc": {
+      "title": "Gran Turismo 2 (gt-2-pc)",
+      "local": "covers/readme-e4bb56f27c45eed0.webp",
+      "image_url": "https://raw.githubusercontent.com/dubrovskiy-yevhen-stakelogic/gt-2-pc/HEAD/docs/images/cockpit-0.5.0.png",
+      "readme_url": "https://raw.githubusercontent.com/dubrovskiy-yevhen-stakelogic/gt-2-pc/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:15.846Z"
+    },
+    "team-beef-studios/lambda1vr": {
+      "title": "Half-Life (Lambda1VR (Xash3D VR port))",
+      "local": "covers/readme-86f459a9debb14fc.webp",
+      "image_url": "https://www.lambda1vr.com/img/banner2.jpg",
+      "readme_url": "https://raw.githubusercontent.com/Team-Beef-Studios/Lambda1VR/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:15.881Z"
+    },
+    "edge-classic/edge-classic": {
+      "title": "EDGE-classic",
+      "local": "covers/readme-06a4a7cc78af4fde.webp",
+      "image_url": "https://user-images.githubusercontent.com/58537100/146055272-0deb8163-5828-4f2f-b6e3-34b48f53ea10.png",
+      "readme_url": "https://raw.githubusercontent.com/edge-classic/EDGE-classic/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:16.202Z"
+    },
+    "maxdeadbear/naughtybear_restuff": {
+      "title": "Naughty Bear",
+      "local": "covers/readme-03eee21495f39c4c.webp",
+      "image_url": "https://github.com/user-attachments/assets/2bf3f451-05f7-40a8-80ce-93ad4740b90a",
+      "readme_url": "https://raw.githubusercontent.com/MaxDeadBear/NaughtyBear_ReStuff/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:16.220Z"
+    },
+    "rohanbhattacharyya/osbm": {
+      "title": "Starbound (OpenStarbound Mobile)",
+      "local": "covers/readme-82bfedaf13167a1b.webp",
+      "image_url": "https://raw.githubusercontent.com/RohanBhattacharyya/oSBM/HEAD/assets/osbm/osbmPixelArt-8x.png",
+      "readme_url": "https://raw.githubusercontent.com/RohanBhattacharyya/oSBM/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:16.307Z"
+    },
+    "tribal-trouble/tribaltrouble": {
+      "title": "Tribal Trouble",
+      "local": "covers/readme-0a8e59491248614a.webp",
+      "image_url": "https://raw.githubusercontent.com/Tribal-Trouble/tribaltrouble/HEAD/.github/images/tt_logo.png",
+      "readme_url": "https://raw.githubusercontent.com/Tribal-Trouble/tribaltrouble/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:16.465Z"
+    },
+    "frandallfarmer/neohabitat": {
+      "title": "Habitat (NeoHabitat)",
+      "local": "covers/readme-a1010ef446b31ca9.webp",
+      "image_url": "https://raw.githubusercontent.com/frandallfarmer/neohabitat-doc/master/docs/images/neohabitat_splash.png",
+      "readme_url": "https://raw.githubusercontent.com/frandallfarmer/neohabitat/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:16.729Z"
+    },
+    "overkilllabs3/sos-ps5": {
+      "title": "God of War: Sons of Sparta (Sons Of Sparta PS5 Native)",
+      "local": "covers/readme-d847944a1597c57f.webp",
+      "image_url": "https://raw.githubusercontent.com/OverkillLabs3/SoS-PS5/HEAD/screenshot.jpg",
+      "readme_url": "https://raw.githubusercontent.com/OverkillLabs3/SoS-PS5/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:16.946Z"
+    },
+    "jakobkhansen/silksongandroid": {
+      "title": "Hollow Knight: Silksong (Silksong Android)",
+      "local": "covers/readme-0ef79f57655ab389.webp",
+      "image_url": "https://raw.githubusercontent.com/jakobkhansen/SilksongAndroid/HEAD/docs/icon.png",
+      "readme_url": "https://raw.githubusercontent.com/jakobkhansen/SilksongAndroid/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:17.209Z"
+    },
+    "yeoldpress/alttp-dx": {
+      "title": "The Legend of Zelda: A Link to the Past",
+      "local": "covers/readme-3ae6323faf27ff68.webp",
+      "image_url": "https://raw.githubusercontent.com/YeOldPress/alttp-dx/HEAD/docs/screenshots/start-menu.png",
+      "readme_url": "https://raw.githubusercontent.com/YeOldPress/alttp-dx/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:17.722Z"
+    },
+    "drommedhar/mgs-reintegral": {
+      "title": "Metal Gear Solid (mgs-reintegral)",
+      "local": "covers/readme-5b3d70d1210a6d8f.webp",
+      "image_url": "https://raw.githubusercontent.com/Drommedhar/mgs-reintegral/HEAD/assets/branding/re-integral-logo.png",
+      "readme_url": "https://raw.githubusercontent.com/Drommedhar/mgs-reintegral/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:17.864Z"
+    },
+    "nolffan/nolf2src": {
+      "title": "No One Lives Forever 2 (nolf2src)",
+      "local": "covers/readme-e2fb2d1e163b1212.webp",
+      "image_url": "https://raw.githubusercontent.com/nolffan/nolf2src/HEAD/screenshots/screenshot01.png",
+      "readme_url": "https://raw.githubusercontent.com/nolffan/nolf2src/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:18.164Z"
+    },
+    "shagg88/athelas": {
+      "title": "The Return of the King (Athelas)",
+      "local": "covers/readme-6a6266114a3de58e.webp",
+      "image_url": "https://github.com/user-attachments/assets/7a19a7d8-5653-4a2c-909e-cd8dd1dcf653",
+      "readme_url": "https://raw.githubusercontent.com/Shagg88/Athelas/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:18.207Z"
+    },
+    "sulphurs16/acfa-port": {
+      "title": "Armored Core: For Answer (ACFA-Port)",
+      "local": "covers/readme-60c8e292adaf0d35.webp",
+      "image_url": "https://github.com/user-attachments/assets/c287c4dc-409d-46a1-a9f4-388cf41ccd64",
+      "readme_url": "https://raw.githubusercontent.com/SulphurS16/ACFA-Port/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:18.521Z"
+    },
+    "saulob/dragons-crown-pro-pc": {
+      "title": "Dragon's Crown Pro",
+      "local": "covers/readme-ee961c8897e2fc6d.webp",
+      "image_url": "https://github.com/user-attachments/assets/984433e5-1bd8-498a-949c-68815e73b901",
+      "readme_url": "https://raw.githubusercontent.com/saulob/dragons-crown-pro-pc/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:18.531Z"
+    },
+    "0herculabs/hl360-forza2": {
+      "title": "Forza Motorsport 2 (hl360-Forza2)",
+      "local": "covers/readme-c17a262e0c1cc9a0.webp",
+      "image_url": "https://raw.githubusercontent.com/0herculabs/hl360-Forza2/HEAD/docs/img/game-race-mugello.jpg",
+      "readme_url": "https://raw.githubusercontent.com/0herculabs/hl360-Forza2/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:18.567Z"
+    },
+    "team-beef-studios/jkxr": {
+      "title": "Star Wars Jedi Knight II: Jedi Outcast (JK XR)",
+      "local": "covers/readme-4095c974e12a51a4.webp",
+      "image_url": "https://raw.githubusercontent.com/DrBeef/JKXR/main/assets/JKXRGithub.jpg",
+      "readme_url": "https://raw.githubusercontent.com/Team-Beef-Studios/JKXR/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:18.665Z"
+    },
+    "thibautbus/top": {
+      "title": "The Legend of Zelda: Oracle of Ages/Seasons",
+      "local": "covers/readme-00991f025840835f.webp",
+      "image_url": "https://raw.githubusercontent.com/thibautbus/top/HEAD/docs/assets/banner.png",
+      "readme_url": "https://raw.githubusercontent.com/thibautbus/top/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:18.734Z"
+    },
+    "imjustadudegamer/voyagersp-android": {
+      "title": "Star Trek: Voyager - Elite Force (Star Trek: Voyager - Elite Force (Android))",
+      "local": "covers/readme-0e800cbe8ae99559.webp",
+      "image_url": "https://github.com/user-attachments/assets/ca33430e-20ca-42ed-8d29-32836066d375",
+      "readme_url": "https://raw.githubusercontent.com/imjustadudegamer/VoyagerSP-Android/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:18.931Z"
+    },
+    "estebanpdn/legend-of-doom-3ds": {
+      "title": "Legend of Doom (legend-of-doom-3ds)",
+      "local": "covers/readme-5215535e7c1bab3b.webp",
+      "image_url": "https://raw.githubusercontent.com/EstebanPdN/legend-of-doom-3ds/HEAD/docs/images/showcase-rounded.webp",
+      "readme_url": "https://raw.githubusercontent.com/EstebanPdN/legend-of-doom-3ds/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:19.052Z"
+    },
+    "sulphurs16/ac4-port": {
+      "title": "Armored Core 4 (AC4-Port)",
+      "local": "covers/readme-b2f4909783ed011d.webp",
+      "image_url": "https://github.com/user-attachments/assets/3d0559d2-a49b-4e44-bd30-cc5177ddf895",
+      "readme_url": "https://raw.githubusercontent.com/SulphurS16/AC4-Port/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:19.159Z"
+    },
+    "gzh0821/pvzge_web": {
+      "title": "Plants vs. Zombies 2 (pvzge_web)",
+      "local": "covers/readme-eae80e203fbc3135.webp",
+      "image_url": "https://pvzge.com/pvz_logo-round.webp",
+      "readme_url": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:20.113Z"
+    },
+    "lamb2k/re4dc": {
+      "title": "Resident Evil 4 (Dreamcast port, re4dc)",
+      "local": "covers/readme-ccb4877cdc678a08.webp",
+      "image_url": "https://raw.githubusercontent.com/lamb2k/re4dc/HEAD/docs/images/releases/test-19/options-defaults.jpg",
+      "readme_url": "https://raw.githubusercontent.com/lamb2k/re4dc/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:20.155Z"
+    },
+    "moshferatu/zombies-ate-my-neighbors-pc-port": {
+      "title": "Zombies Ate My Neighbors (Zombies Ate My Neighbors PC Port)",
+      "local": "covers/readme-378c4d28b18d0ef7.webp",
+      "image_url": "https://raw.githubusercontent.com/moshferatu/zombies-ate-my-neighbors-pc-port/HEAD/docs/images/video_preview.png",
+      "readme_url": "https://raw.githubusercontent.com/moshferatu/zombies-ate-my-neighbors-pc-port/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:20.687Z"
+    },
+    "daniele-rapagnani/alephone-android": {
+      "title": "Marathon (Marathon (Android))",
+      "local": "covers/readme-dbff57d2d5b7c5df.webp",
+      "image_url": "https://raw.githubusercontent.com/daniele-rapagnani/alephone-android/HEAD/touch_controls.png",
+      "readme_url": "https://raw.githubusercontent.com/daniele-rapagnani/alephone-android/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:20.797Z"
+    },
+    "leanndroguedes/re3-19feb21": {
+      "title": "Grand Theft Auto III (re3)",
+      "local": "covers/readme-dd185d948d579729.webp",
+      "image_url": "https://user-images.githubusercontent.com/1521437/107704085-fbdabd00-6cbc-11eb-8406-8951a80ccb16.png",
+      "readme_url": "https://raw.githubusercontent.com/leanndroguedes/re3-19feb21/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:21.132Z"
+    },
+    "rohit-n/nearchuckle": {
+      "title": "NearChuckle",
+      "local": "covers/readme-a8cf389d196af9c4.webp",
+      "image_url": "https://raw.githubusercontent.com/rohit-n/NearChuckle/HEAD/assets/fort.jpg",
+      "readme_url": "https://raw.githubusercontent.com/rohit-n/NearChuckle/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:21.724Z"
+    },
+    "rinnegatamante/ldhewm3-rearmed": {
+      "title": "Doom 3",
+      "local": "covers/readme-8891a24672fb596a.webp",
+      "image_url": "https://raw.githubusercontent.com/Rinnegatamante/ldhewm3-rearmed/HEAD/shot.png",
+      "readme_url": "https://raw.githubusercontent.com/Rinnegatamante/ldhewm3-rearmed/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:21.725Z"
+    },
+    "johnimril/diablo_web": {
+      "title": "Diablo (diablo_web))",
+      "local": "covers/readme-b522f932182cac4b.webp",
+      "image_url": "https://raw.githubusercontent.com/JohnImril/diablo_web/HEAD/public/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/JohnImril/diablo_web/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:21.742Z"
+    },
+    "x8bitrain/webxash": {
+      "title": "Half-Life (webXash))",
+      "local": "covers/readme-8b5ffc250f8799fd.webp",
+      "image_url": "https://github.com/user-attachments/assets/46d9265a-8e1a-4f80-8419-f7b04aa7925b",
+      "readme_url": "https://raw.githubusercontent.com/x8BitRain/webXash/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:22.206Z"
+    },
+    "agusx1211/newshoes": {
+      "title": "Command & Conquer: Generals Zero Hour (NewShoes)",
+      "local": "covers/readme-78b1e00ae20db72a.webp",
+      "image_url": "https://raw.githubusercontent.com/Agusx1211/NewShoes/HEAD/WebAssembly/harness/assets/brand/project-new-shoes-mark.webp",
+      "readme_url": "https://raw.githubusercontent.com/Agusx1211/NewShoes/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:22.434Z"
+    },
+    "benbaker76/openswos": {
+      "title": "Sensible World of Soccer 96/97 (OpenSWOS)",
+      "local": "covers/readme-2e0e22622e83c4ed.webp",
+      "image_url": "https://raw.githubusercontent.com/benbaker76/OpenSWOS/HEAD/docs/images/screenshots/01_match_stand_goal.png",
+      "readme_url": "https://raw.githubusercontent.com/benbaker76/OpenSWOS/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:22.611Z"
+    },
+    "naegoxdev/sm64-scratch": {
+      "title": "Super Mario 64 in Scratch (sm64-scratch)",
+      "local": "covers/readme-7ef4dc250e7cfab7.webp",
+      "image_url": "https://raw.githubusercontent.com/naegoxdev/sm64-scratch/HEAD/docs/images/mario-head-editor.jpg",
+      "readme_url": "https://raw.githubusercontent.com/naegoxdev/sm64-scratch/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:22.766Z"
+    },
+    "vladtrc/iw4l": {
+      "title": "Call of Duty: Modern Warfare 2 (IW4L)",
+      "local": "covers/readme-50a26ccf01252620.webp",
+      "image_url": "https://raw.githubusercontent.com/vladtrc/iw4L/HEAD/docs/screenshots/bomb-plant.jpg",
+      "readme_url": "https://raw.githubusercontent.com/vladtrc/iw4L/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:23.484Z"
+    },
+    "opensc2k/opensc2k": {
+      "title": "OpenSC2K",
+      "local": "covers/readme-1161dc5b7d823d0c.webp",
+      "image_url": "https://raw.githubusercontent.com/OpenSC2K/OpenSC2K/HEAD/.github/screenshots/image1-preview.webp",
+      "readme_url": "https://raw.githubusercontent.com/OpenSC2K/OpenSC2K/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:23.715Z"
+    },
+    "keriew/augustus": {
+      "title": "Caesar III (Augustus)",
+      "local": "covers/readme-23e53532ecc29041.webp",
+      "image_url": "https://raw.githubusercontent.com/Keriew/augustus/HEAD/doc/main-image.png",
+      "readme_url": "https://raw.githubusercontent.com/Keriew/augustus/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:23.723Z"
+    },
+    "afritz1/opentesarena": {
+      "title": "OpenTESArena",
+      "local": "covers/readme-d16864f0c3c80bbe.webp",
+      "image_url": "https://raw.githubusercontent.com/afritz1/OpenTESArena/HEAD/Preview.PNG",
+      "readme_url": "https://raw.githubusercontent.com/afritz1/OpenTESArena/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:24.534Z"
+    },
+    "dpjudas/surrealengine": {
+      "title": "SurrealEngine",
+      "local": "covers/readme-4dbb26b87bed3814.webp",
+      "image_url": "https://raw.githubusercontent.com/dpjudas/SurrealEngine/HEAD/Resources/surreal-engine-banner.png",
+      "readme_url": "https://raw.githubusercontent.com/dpjudas/SurrealEngine/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:25.022Z"
+    },
+    "lethal-guitar/rigelengine": {
+      "title": "Rigel Engine",
+      "local": "covers/readme-b72579429e202d9a.webp",
+      "image_url": "https://nikolai-wuttke.de/RigelEngine/assets/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/lethal-guitar/RigelEngine/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:25.105Z"
+    },
+    "lostartefacts/trx": {
+      "title": "Tomb Raider I & II",
+      "local": "covers/readme-4ddf3a3e46d5b68c.webp",
+      "image_url": "https://raw.githubusercontent.com/LostArtefacts/TRX/HEAD/data/trx/icon.png",
+      "readme_url": "https://raw.githubusercontent.com/LostArtefacts/TRX/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:25.136Z"
+    },
+    "openloco/openloco": {
+      "title": "OpenLoco",
+      "local": "covers/readme-796a67aa1093747f.webp",
+      "image_url": "https://user-images.githubusercontent.com/604665/55420349-1a2aea00-5577-11e9-87da-78fe5cdb09e1.png",
+      "readme_url": "https://raw.githubusercontent.com/OpenLoco/OpenLoco/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:25.500Z"
+    },
+    "openblack/openblack": {
+      "title": "openblack",
+      "local": "covers/readme-ee32ebe505b35018.webp",
+      "image_url": "https://user-images.githubusercontent.com/32263167/184559293-56cfc6a7-a7da-4876-8fce-434ba8827eae.png",
+      "readme_url": "https://raw.githubusercontent.com/openblack/openblack/HEAD/readme.md",
+      "checked_at": "2026-10-27T12:01:25.591Z"
+    },
+    "interkarma/daggerfall-unity": {
+      "title": "Daggerfall Unity",
+      "local": "covers/readme-52cd92e758cde7bf.webp",
+      "image_url": "https://github.com/Interkarma/daggerfall-unity/assets/10426244/43688bd8-c3b0-42b5-bb64-066d6867ff66",
+      "readme_url": "https://raw.githubusercontent.com/Interkarma/daggerfall-unity/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:26.073Z"
+    },
+    "pyrdacor/ambermoon.net": {
+      "title": "Ambermoon",
+      "local": "covers/readme-a6cf3e53e412c6dd.webp",
+      "image_url": "https://github.com/Pyrdacor/Ambermoon.net/raw/master/Screenshots/MapRendering1.png",
+      "readme_url": "https://raw.githubusercontent.com/Pyrdacor/Ambermoon.net/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:26.176Z"
+    },
+    "openfodder/openfodder": {
+      "title": "Open Fodder",
+      "local": "covers/readme-e9885d43f2c59412.webp",
+      "image_url": "https://user-images.githubusercontent.com/1327406/49718991-f1bd6e00-fcaf-11e8-88e3-68136828c2d1.png",
+      "readme_url": "https://raw.githubusercontent.com/OpenFodder/openfodder/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:27.452Z"
+    },
+    "openapoc/openapoc": {
+      "title": "OpenApocalypse",
+      "local": "covers/readme-0bda5248aa73705b.webp",
+      "image_url": "https://i.imgur.com/XxudxVj.jpg",
+      "readme_url": "https://raw.githubusercontent.com/OpenApoc/OpenApoc/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:27.687Z"
+    },
+    "pqmarine/underworldrevisited": {
+      "title": "Underworld Revisited",
+      "local": "covers/readme-9211fb82041622ce.webp",
+      "image_url": "https://raw.githubusercontent.com/PQMarine/UnderworldRevisited/HEAD/Screenshots/UR01.png",
+      "readme_url": "https://raw.githubusercontent.com/PQMarine/UnderworldRevisited/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:28.387Z"
+    },
+    "eduard-permyakov/permafrost-engine": {
+      "title": "permafrost-engine",
+      "local": "covers/readme-e8d71374df67a980.webp",
+      "image_url": "https://raw.githubusercontent.com/eduard-permyakov/permafrost-engine/HEAD/docs/images/screenshot-01.jpg",
+      "readme_url": "https://raw.githubusercontent.com/eduard-permyakov/permafrost-engine/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:28.454Z"
+    },
+    "0lvin/heretic2": {
+      "title": "heretic2",
+      "local": "covers/readme-68ae3f7aa68b7c34.webp",
+      "image_url": "https://img.youtube.com/vi/HKvQvU5iQ9s/hqdefault.jpg",
+      "readme_url": "https://raw.githubusercontent.com/0lvin/heretic2/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:28.975Z"
+    },
+    "megaglest/megaglest-source": {
+      "title": "MegaGlest",
+      "local": "covers/readme-0a8dec0d237ef413.webp",
+      "image_url": "https://megaglest.org/assets/logo.png",
+      "readme_url": "https://raw.githubusercontent.com/MegaGlest/megaglest-source/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:29.421Z"
+    },
+    "pyrdacor/freeserf.net": {
+      "title": "freeserf.net",
+      "local": "covers/readme-7321f680e1cff8ff.webp",
+      "image_url": "https://github.com/Pyrdacor/freeserf.net/raw/master/images/Settlers_1.png",
+      "readme_url": "https://raw.githubusercontent.com/Pyrdacor/freeserf.net/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:29.429Z"
+    },
+    "robertbeckebans/rbdoom-3-bfg": {
+      "title": "RBDOOM-3-BFG",
+      "local": "covers/readme-80288a1a4a21bdfb.webp",
+      "image_url": "https://i.imgur.com/nSWBSUB.png",
+      "readme_url": "https://raw.githubusercontent.com/RobertBeckebans/RBDOOM-3-BFG/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:29.579Z"
+    },
+    "nxengine/nxengine-evo": {
+      "title": "NXEngine-evo",
+      "local": "covers/readme-376f5bbf0e1b87fc.webp",
+      "image_url": "https://raw.githubusercontent.com/nxengine/nxengine-evo/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/nxengine/nxengine-evo/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:29.587Z"
+    },
+    "opennfs/opennfs": {
+      "title": "Need For Speed 1-6",
+      "local": "covers/readme-00d5eb1d00293aaf.webp",
+      "image_url": "https://raw.githubusercontent.com/OpenNFS/OpenNFS/HEAD/doc/BuildProgress.png",
+      "readme_url": "https://raw.githubusercontent.com/OpenNFS/OpenNFS/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:29.592Z"
+    },
+    "openmoh/openmohaa": {
+      "title": "OpenMoHAA",
+      "local": "covers/readme-491f5e258e636aac.webp",
+      "image_url": "https://raw.githubusercontent.com/openmoh/openmohaa/HEAD/misc/openmohaa-text-sm.png",
+      "readme_url": "https://raw.githubusercontent.com/openmoh/openmohaa/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:29.893Z"
+    },
+    "openenroth/openenroth": {
+      "title": "OpenEnroth",
+      "local": "covers/readme-ee2b46f7b3b04ffd.webp",
+      "image_url": "https://user-images.githubusercontent.com/24377109/79051217-491a7800-7c2f-11ea-85c7-f9120b7d79dd.png",
+      "readme_url": "https://raw.githubusercontent.com/OpenEnroth/OpenEnroth/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:30.430Z"
+    },
+    "zgzinfinity/outrun": {
+      "title": "OutRun",
+      "local": "covers/readme-508412b6daa8b5c8.webp",
+      "image_url": "https://i.ibb.co/LZTc93m/Intro.png",
+      "readme_url": "https://raw.githubusercontent.com/ZgzInfinity/OutRun/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:31.289Z"
+    },
+    "endprodukt/cannonball-dx": {
+      "title": "OutRun (CannonBall DX)",
+      "local": "covers/readme-3d523a576fc15515.webp",
+      "image_url": "https://raw.githubusercontent.com/Endprodukt/cannonball-dx/HEAD/screenshots/CannonballDX.png",
+      "readme_url": "https://raw.githubusercontent.com/Endprodukt/cannonball-dx/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:31.767Z"
+    },
+    "openkingdoms/openkingdoms": {
+      "title": "Total Annihilation: Kingdoms",
+      "local": "covers/readme-1dc7798ba0332925.webp",
+      "image_url": "https://raw.githubusercontent.com/OpenKingdoms/OpenKingdoms/HEAD/docs/img/banner.jpg",
+      "readme_url": "https://raw.githubusercontent.com/OpenKingdoms/OpenKingdoms/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:32.003Z"
+    },
+    "synthwave-pixel/ultima5": {
+      "title": "Ultima 5",
+      "local": "covers/readme-ec7c38c3ed5fc009.webp",
+      "image_url": "https://raw.githubusercontent.com/synthwave-pixel/ultima5/HEAD/docs/banner.png",
+      "readme_url": "https://raw.githubusercontent.com/synthwave-pixel/ultima5/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:32.144Z"
+    },
+    "alexc1991/zt1-engine": {
+      "title": "Zoo Tycoon 1 engine (zt1-engine)",
+      "local": "covers/readme-29bdb919afed9627.webp",
+      "image_url": "https://raw.githubusercontent.com/AlexC1991/zt1-engine/HEAD/docs/screenshots/main_menu.jpg",
+      "readme_url": "https://raw.githubusercontent.com/AlexC1991/zt1-engine/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:32.305Z"
+    },
+    "wargus/war1gus": {
+      "title": "Warcraft: Orcs & Humans (War1gus)",
+      "local": "covers/readme-3a551caa4e6693c4.webp",
+      "image_url": "https://user-images.githubusercontent.com/93911529/157967177-0eab04af-a704-415d-8f6f-294d0e5aaed0.png",
+      "readme_url": "https://raw.githubusercontent.com/Wargus/war1gus/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:32.380Z"
+    },
+    "nautilusbits/mdk-sdl": {
+      "title": "MDK Sdl",
+      "local": "covers/readme-6bdb6801f9822c65.webp",
+      "image_url": "https://raw.githubusercontent.com/nautilusbits/mdk-sdl/HEAD/docs/media/level7-sniper-hud.jpg",
+      "readme_url": "https://raw.githubusercontent.com/nautilusbits/mdk-sdl/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:33.003Z"
+    },
+    "in0finite/sanandreasunity": {
+      "title": "San Andreas Unity",
+      "local": "covers/readme-6e75277f3a02fe34.webp",
+      "image_url": "https://i.imgur.com/aIojfPW.png",
+      "readme_url": "https://raw.githubusercontent.com/in0finite/SanAndreasUnity/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:33.412Z"
+    },
+    "azmawee/emperorreborn": {
+      "title": "EmperorReborn",
+      "local": "covers/readme-8f07895d728d74b6.webp",
+      "image_url": "https://raw.githubusercontent.com/azmawee/EmperorReborn/HEAD/screenshots/gameplay-2.png",
+      "readme_url": "https://raw.githubusercontent.com/azmawee/EmperorReborn/HEAD/readme.md",
+      "checked_at": "2026-10-27T12:01:33.492Z"
+    },
+    "kevinfoley/herculan": {
+      "title": "Herculan",
+      "local": "covers/readme-c3d524f3420ab68d.webp",
+      "image_url": "https://raw.githubusercontent.com/kevinfoley/Herculan/HEAD/Branding/HERCULAN%20Engine%20Logo%20Solid%20600.png",
+      "readme_url": "https://raw.githubusercontent.com/kevinfoley/Herculan/HEAD/README.MD",
+      "checked_at": "2026-10-27T12:01:33.666Z"
+    },
+    "opene2140/opene2140": {
+      "title": "OpenE2140",
+      "local": "covers/readme-34fffd5aaf589a4a.webp",
+      "image_url": "https://github.com/user-attachments/assets/919c64de-e08c-4e26-b90a-4d2bd3828639",
+      "readme_url": "https://raw.githubusercontent.com/OpenE2140/OpenE2140/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:33.667Z"
+    },
+    "sdw-community/sheep-dog-n-wolf-rewooled": {
+      "title": "Sheep, Dog 'n' Wolf",
+      "local": "covers/readme-69c3c569b001eb70.webp",
+      "image_url": "https://raw.githubusercontent.com/SDW-Community/Sheep-Dog-n-Wolf-Rewooled/main/res/banner.png?raw=true",
+      "readme_url": "https://raw.githubusercontent.com/SDW-Community/Sheep-Dog-n-Wolf-Rewooled/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:33.770Z"
+    },
+    "openbiohazard2/openbiohazard2": {
+      "title": "Resident Evil 2",
+      "local": "covers/readme-d0bec79c99197a58.webp",
+      "image_url": "https://github.com/OpenBiohazard2/OpenBiohazard2/raw/master/screenshots/beginning.png",
+      "readme_url": "https://raw.githubusercontent.com/OpenBiohazard2/OpenBiohazard2/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:33.806Z"
+    },
+    "hankmorgan/underworldgodot": {
+      "title": "UnderworldGodot",
+      "local": "covers/readme-0ca51ca42435c9e2.webp",
+      "image_url": "https://raw.githubusercontent.com/hankmorgan/UnderworldGodot/HEAD/resources/screenshots/screenshotuw1.jpg",
+      "readme_url": "https://raw.githubusercontent.com/hankmorgan/UnderworldGodot/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:33.894Z"
+    },
+    "salvadorc17/prince-monogame": {
+      "title": "Prince-Monogame",
+      "local": "covers/readme-1586da5db717d18e.webp",
+      "image_url": "https://raw.githubusercontent.com/salvadorc17/Prince-Monogame/HEAD/preview.png",
+      "readme_url": "https://raw.githubusercontent.com/salvadorc17/Prince-Monogame/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:34.785Z"
+    },
+    "openphantom/openphantom": {
+      "title": "Star Wars Episode I: The Phantom Menace (OpenPhantom)",
+      "local": "covers/readme-27340878f6b0c8e3.webp",
+      "image_url": "https://github.com/user-attachments/assets/8ffa0c2f-d9a4-439c-a880-6eb123f29090",
+      "readme_url": "https://raw.githubusercontent.com/OpenPhantom/OpenPhantom/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:35.276Z"
+    },
+    "psi29a/thirdeye": {
+      "title": "Thirdeye",
+      "local": "covers/readme-96f17c8d20dbb3cf.webp",
+      "image_url": "https://github.com/user-attachments/assets/77952869-864c-44c2-890d-029d7bf5c29d",
+      "readme_url": "https://raw.githubusercontent.com/psi29a/thirdeye/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:35.294Z"
+    },
+    "tomb5/tomb5": {
+      "title": "Tomb Raider: Chronicles",
+      "local": "covers/readme-de7e6232518ca694.webp",
+      "image_url": "https://i.imgur.com/YzFDlbRl.png",
+      "readme_url": "https://raw.githubusercontent.com/TOMB5/TOMB5/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:35.508Z"
+    },
+    "kweepa/openunderground": {
+      "title": "Unity Underground",
+      "local": "covers/readme-d3ca6ebec32e15da.webp",
+      "image_url": "https://raw.githubusercontent.com/Kweepa/OpenUnderground/HEAD/Docs/images/room.jpg",
+      "readme_url": "https://raw.githubusercontent.com/Kweepa/OpenUnderground/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:35.700Z"
+    },
+    "armageddongames/zeldaclassic": {
+      "title": "Zelda Classic",
+      "local": "covers/readme-b8cbbf9d0d529e99.webp",
+      "image_url": "https://raw.githubusercontent.com/ArmageddonGames/ZeldaClassic/HEAD/screenshots/lost1.png",
+      "readme_url": "https://raw.githubusercontent.com/ArmageddonGames/ZeldaClassic/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:36.265Z"
+    },
+    "nadult/freeft": {
+      "title": "FreeFT",
+      "local": "covers/readme-f8f894e2c6b09490.webp",
+      "image_url": "https://cloud.githubusercontent.com/assets/3227675/6886151/e705b616-d634-11e4-8f22-ee2f7c1dca01.jpg",
+      "readme_url": "https://raw.githubusercontent.com/nadult/FreeFT/HEAD/readme.md",
+      "checked_at": "2026-10-27T12:01:37.169Z"
+    },
+    "dzierzan/opensa": {
+      "title": "OpenSA",
+      "local": "covers/readme-118a231c49e2e9b2.webp",
+      "image_url": "https://imgur.com/Fiv7Kux.png",
+      "readme_url": "https://raw.githubusercontent.com/Dzierzan/OpenSA/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:37.346Z"
+    },
+    "reburndev/reburn3": {
+      "title": "Reburn 3",
+      "local": "covers/readme-364afc7db3c254a9.webp",
+      "image_url": "https://raw.githubusercontent.com/reburndev/reburn3/master/img/ss1.png?raw=true",
+      "readme_url": "https://raw.githubusercontent.com/reburndev/reburn3/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:37.843Z"
+    },
+    "thephrozenkeep/d2moo": {
+      "title": "Diablo II (D2MOO)",
+      "local": "covers/readme-4bfaf62023b04f70.webp",
+      "image_url": "https://raw.githubusercontent.com/ThePhrozenKeep/D2MOO/HEAD/doc/assets/img/D2MooDebugger.png",
+      "readme_url": "https://raw.githubusercontent.com/ThePhrozenKeep/D2MOO/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:37.862Z"
+    },
+    "yuriplanet/vera20k": {
+      "title": "vera20k",
+      "local": "covers/readme-9f0dc06666eed637.webp",
+      "image_url": "https://raw.githubusercontent.com/YuriPlanet/vera20k/HEAD/docs/images/vera20k-screenshots.png",
+      "readme_url": "https://raw.githubusercontent.com/YuriPlanet/vera20k/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:37.929Z"
+    },
+    "ssenegas/kickoff": {
+      "title": "Open Kick-Off",
+      "local": "covers/readme-59d00a7d6b1ba7e4.webp",
+      "image_url": "https://user-images.githubusercontent.com/9662172/82729284-a0b00700-9cf6-11ea-9659-ac564e31ba87.png",
+      "readme_url": "https://raw.githubusercontent.com/ssenegas/kickoff/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:37.963Z"
+    },
+    "opentpw/opentpw": {
+      "title": "OpenTPW",
+      "local": "covers/readme-415283bf99663f88.webp",
+      "image_url": "https://github.com/user-attachments/assets/be81a5d3-f99c-4f46-8200-7ea5d9a652e8",
+      "readme_url": "https://raw.githubusercontent.com/OpenTPW/OpenTPW/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:38.267Z"
+    },
+    "acoto87/war1": {
+      "title": "war1",
+      "local": "covers/readme-87f7400b0c5545e5.webp",
+      "image_url": "https://raw.githubusercontent.com/acoto87/war1/master/pics/pic1.png",
+      "readme_url": "https://raw.githubusercontent.com/acoto87/war1/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:38.332Z"
+    },
+    "plowteam/donut": {
+      "title": "donut",
+      "local": "covers/readme-993e6fb44dacde68.webp",
+      "image_url": "https://files.facepunch.com/Layla/2019/August/11/2019-08-09_22-12-28.png",
+      "readme_url": "https://raw.githubusercontent.com/plowteam/donut/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:38.475Z"
+    },
+    "themperror/dungeon-keeper-remake": {
+      "title": "Dungeon Keeper Remake",
+      "local": "covers/readme-c80ee97fb045ba12.webp",
+      "image_url": "https://raw.githubusercontent.com/Themperror/Dungeon-Keeper-Remake/master/DKImage1.png",
+      "readme_url": "https://raw.githubusercontent.com/Themperror/Dungeon-Keeper-Remake/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:39.220Z"
+    },
+    "neuviemeporte/f15se2-ex": {
+      "title": "F-15 II Enhanced",
+      "local": "covers/readme-e76aa383424a462f.webp",
+      "image_url": "https://raw.githubusercontent.com/neuviemeporte/f15se2-ex/HEAD/screenshots/title.png",
+      "readme_url": "https://raw.githubusercontent.com/neuviemeporte/f15se2-ex/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:39.308Z"
+    },
+    "regoth-project/regoth-bs": {
+      "title": "REGoth",
+      "local": "covers/readme-bfd2b901162ae7a7.webp",
+      "image_url": "https://user-images.githubusercontent.com/11406580/58186975-2cdbb880-7cb6-11e9-9a6d-b38326bc3edb.png",
+      "readme_url": "https://raw.githubusercontent.com/REGoth-project/REGoth-bs/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:39.606Z"
+    },
+    "lbalab/twin-e": {
+      "title": "twin-e",
+      "local": "covers/readme-f412b46853cac6ab.webp",
+      "image_url": "https://raw.githubusercontent.com/LBALab/twin-e/HEAD/docs/twin-e.png",
+      "readme_url": "https://raw.githubusercontent.com/LBALab/twin-e/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:40.137Z"
+    },
+    "noxworld-dev/opennox": {
+      "title": "OpenNox",
+      "local": "covers/readme-91638439864f9555.webp",
+      "image_url": "https://raw.githubusercontent.com/noxworld-dev/opennox/HEAD/docs/images/logo.png",
+      "readme_url": "https://raw.githubusercontent.com/noxworld-dev/opennox/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:40.222Z"
+    },
+    "cookgreen/chronostorm": {
+      "title": "Command & Conquer: Red Alert 2",
+      "local": "covers/readme-ef345c89a67476d9.webp",
+      "image_url": "https://github.com/user-attachments/assets/e0e337f9-1721-4082-adfb-4673a4145b4e",
+      "readme_url": "https://raw.githubusercontent.com/cookgreen/ChronoStorm/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:40.453Z"
+    },
+    "rep-stosw/tube64": {
+      "title": "Tube",
+      "local": "covers/readme-1a4d957ab1d1df34.webp",
+      "image_url": "https://user-images.githubusercontent.com/88702500/131208173-4758d8b1-0629-48b9-a53e-1b4c90115a90.png",
+      "readme_url": "https://raw.githubusercontent.com/rep-stosw/tube64/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:41.312Z"
+    },
+    "davidadas/rebellion2": {
+      "title": "rebellion2",
+      "local": "covers/readme-2043ec94fe47b339.webp",
+      "image_url": "https://github.com/user-attachments/assets/f3b454e3-aa88-4363-b8ba-19d2447acb2e",
+      "readme_url": "https://raw.githubusercontent.com/davidadas/rebellion2/HEAD/README.md",
+      "checked_at": "2026-10-27T12:01:43.229Z"
+    }
+  },
+  "unresolved": [
+    {
+      "repo": "Supermedo/bloodborne_pc",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "beatrixzy/PGR4-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "sal063/AC6_recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "K0NL/B2recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "novapowers0/BloodyRoar2Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "shipa-2/Xerenge",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "sal063/Ace-Combat-X-Recompilation",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "birabittoh/NocturneRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "eandis/SDOJ-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Sinan-Karakaya/DQ8-Recompiled",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Unowa001/crackdown-recomp",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "elprogramadorloco-arch/fuc-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "nathanialf/ico-pc",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "himdo/Fable-2-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "elmasas/lcs-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "nebadasSwifty/masseffect-nx",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "vasist15-source/nfs-carbon-mac",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "elforeign/nfs-most-wanted-mac",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "codepdbh/nfsmwpc-recompiled",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Sampreeth004/nfs-carbon-recomp",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "davidptrssvea/Table-Tennis-Rockstar-PC",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "andrewnakas/skate3-android",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "andrewnakas/skate3-ios-setup",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "portingpete/The-Darkness-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "toowasmir/WebOfShadowsRecomp",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "RecompRando/MMRecompRando",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "iMrBurn/wwe12-pc",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "YesterMester/TheSimpsonsGameRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "sonicdcer/Starfox64Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ZeldaWWHDRecomp/ZeldaWWHDRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Zumbo06/Crash2Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "wivi514/Dead_Rising_2_Case_West_Xenon_Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Apolinario-coder/SkyRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "obaidr1/hercules-recompiled",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "elliotttate/DKC3Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "zer0ducksgiven/Forza-Motorsport-2-ReGPU",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "SunJaycy/GoldenEye-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "DiaLight/Flame",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Spooky098529/ITC-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "MaxDeadBear/KameoRePowered",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "YuutaTsubasa/ChaotixRecompiled",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "puckhead73/nhl-legacy-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "lfarroco/ogre-battle-64-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "DabDavis/perfect-dark-dabs-mod",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "m1ndcrap/Sega-Superstars-Tennis-ReMatch",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "mstan/EmeraldRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Cellenseres/SSSV_Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "mstan/ZeldaAlttPSNESRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "linkzenic/Zelda64Recomp-Android",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "danielgomesvieira2000/wave-race-64-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Supermedo/wet-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "PromethenDev/wwe13-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "shaneomac1337/SVR2011-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "SSunnKing/ZeldaWWHDRecompAndroid---ENHANCED",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Gabrick75/fh2-recompiled",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "bep1s69/nfsmw-ios",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "codepdbh/NFS-CARBON-360-ANDROID-RECOMP",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "AsobiCodes/rac-rs",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "whompay/inFAMOUSreborn",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "StevensND/nfsmw-nx",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "cutarev/sh3-nx",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "mstan/RubySapphireRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "geno55/wg3d-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "bmbelo87/ddr-1st-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "swstegall/meteor-decomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "OverkillLabs3/gears-judgement-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "sonsegajp/HWDER",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "madelrandel-blip/NFSMW-Recompiled",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "chrissotraidis/annepad",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "DerrickGold/ar-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "giangra/stuntdouble-reignition",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "riseio/TWIPE_00Sheven",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ArtfulRascal8/rage-wars-recompiled",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Kitrinx/Ultima7_Decomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "nlwstein/skullburglar",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "whompay/FNCReborn",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "KawaiiBunga/MKVDCU-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "OAleex/MojoRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "christianortel/skate2-recompile-pc",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "n0madic/Soulcalibur2HD-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "mahmoud-mess/tekken6-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "0xl0cal/repentogxm",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "PromethenDev/wwe2k14-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "goshavindtburg/NX1recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "tools81/nfl-head-coach-09-static-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "florinp93/xmd-recompiled",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "mstan/FireRedLeafGreenRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "alphanu1/daytona-arcade-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Fable2Recomp/Fable2Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Decomp-And-Recomp/Samurai-Vs-Zombies",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "sal063/Ace-Combat-3-static-recompilation",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "omegakatana92/Armored-Core-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Genesis5500/ArmyOfTwo-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "jessicanataliagta/BackStabRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "RevoSucks/CV64Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "kiesxoxo/burnout-crash-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "BelmanteGu/SuperMarioWonderRecomp",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "crazyriddler/Conan2007Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "3dge7161/Jiggle-or-Physics",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "WistfulHopes/DBZ1",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "strider973/Einhander-Recompiled",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ianitsky/gt2-multiplayer",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "elripalda/gta4-ps5",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "omegakatana92/Gundam-Seed-Battle-Assault-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "DevZer0D4Y/MCX360-EDITION",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "MissingThePixel/MTR-PGR4",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "fungalspores/prototype-switch",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "omegakatana92/Super-Mario-Land-3-Wario-Land-Recomp-",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "edeegg/Legends-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "CommonLoon102/restunts-bb11",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Player124413/Sonic-Generations-recomp-android-and-pc-edition",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "nikolaygorb/TheDarknessRecomp",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "DomazinUS/RaceWave46",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "itsbybanshee/wwe2k14-pc",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Edwin2929/sma3-recomp-android.",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Subarasheese/daytona-xbla-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "iron-jay/banjo_tooie_xbla_recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "citrongames/Dora64",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "OverkillLabs3/vice-city-stories-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "PranchaD/re-Sonic06Demo",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "cookingwithsimon/Skate1Recompiled",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "mdomangue26/thebigs2",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "THEN00P/reFlappy",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Rainchus/ChameleonTwist1-JP-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "mzzvxm/LARecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "CMR2Decomp/CMR2Decomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "luisxl15/GTA-IV-RECOMP-XBOX-360",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Kirby64Ret/Kirby64Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ACatWithEbola/playstunts",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ihatecompvir/band3_recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "IshaanKalra2103/BotWRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "matty45/Crackdown2-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Fable2Recomp/beanRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "coole42-pixel/BullyRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "bloodborne-native/bloodborne-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "SkiddyToast/Crackdown",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "WistfulHopes/RB2",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "fabioap-cpu/Forza-Horizon-2-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "RussoPhone/tomodachi-ltd-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "SomeoneIsWorking/gears1",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "YoshiCrystal9/re-gh2",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "OZORDI/SanRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "sp00nznet/heavymetal",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "alphanu1/msg-twinsnakes-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "jessicanataliagta/AndroidRecomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "veritr1x/nfsmw-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "tripplyons/pokeemerald-3d",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "xandoxan65/segarally95-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "sp00nznet/shadowofthecolossus",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "aknavj/scghost-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Coz-0/smo-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "sp00nznet/twistedmetal",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "rapidsamphire/AC6Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "WeiGustavo/reblue",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Revan67/DOAX2-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "sp00nznet/tokyojungle",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Revan67/RumbleRosesXX-Recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "HelmXGaming/Skate-3-Recompiled--Work-in-Progress-",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Skate-2-Team/sk82-recomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ant0-blase/Saw2-X360-ReXGlue",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "chocolate-doom/chocolate-doom",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "TheSuperHackers/GeneralsGameCode",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "DCurrent/openbor",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "kholdfuzion/beanRecomp",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "TerryCavanagh/VVVVVV",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ec-/Quake3e",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "JACoders/OpenJK",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "flyngmt/ACGC-PC-Port",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "deadinside28/bloodborne_pc",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Novum/vkQuake",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "samuelit0davila/fifa-street-pc-port",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "fabiangreffrath/crispy-doom",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "scp-fs2open/fs2open.github.com",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "zarif98/midnightclub",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "team-eternity/eternity",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Supermedo/uncharted_pc",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "perfect-dark-pc-port/perfect_dark",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "yquake2/yquake2",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Awakenchan/LanternEngine",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Mrsuss60/bloodborne_pc_windows_port",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ArnoAnsems/CatacombGL",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "InsanityBringer/PiccuEngine",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "dxx-redux/dxx-redux",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "alexbatalov/fallout2-ce",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Odrannnn/MetroidPrimePort",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "RAC-Native/rac1-native-game",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ZDoom/Raze",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "JackPriceBurns/foxhollow",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Ekspym/Tekken6-native-online",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "dxx-rebirth/dxx-rebirth",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "DifferentNet/barony-android-port",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "KranX/Vangers",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "lunarmeadow/barrett",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "NyperYuhgard/CTR-PC-Port",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Russian-Doom/russian-doom",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "mkw-sp/mkw-sp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Team-Beef-Studios/Quake2Quest",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Pencea-Flavius/Minecraft-PE-PSP",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "whompay/SaintsReborn",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "fabiangreffrath/taradino",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "kugelrund/Speed-Academy",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "chrissotraidis/bellpad",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "zwaetschge/ACGC-Android-Port",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "gurrhack/NetHack-Android",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "Boron853/Souls-of-the-Reaper",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "igawa6/dualsouls",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "kugelrund/Speed-Outcast",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "iortcw/iortcw",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "imjustadudegamer/VoyagerHM-Android",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "hachi23/unicorn_overlord_pc",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ProjectDreamland/area51",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "cortex-command-community/Cortex-Command-Community-Project-Source",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "zlatkok/swos-port",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "chrissotraidis/maskpad",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "z2442/oot-PSP",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "kripken/BananaBread",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Waterdish/zelda3-android",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "viciious/d32xr",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "freegish/freegish",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "inolen/quakejs",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "PixieCatSupreme/AnodyneSharp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "The-New-Platinum-Team/OpenMBG",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "FrenkelS/keensource456tandy",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Meridian59/Meridian59",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "suijingfeng/vkQuake3",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "StraDaMa/PoN_PC",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "atsb/daikatana-restoration-project",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "Hdmaniak/DishSoap",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "izzy2lost/perfect_dark",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "therealsark02/defender",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "graememcc/micropolisJS",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "EXL/Gish",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "jonof/jfsw",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "LTCHIPS/rottexpr",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "slqntdevss/kisakcod-port",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "skyjake/Doomsday-Engine",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "HajDEO/nhl24pc",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "sezero/uhexen2",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "yquake2/rogue",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "yquake2/xatrix",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "yquake2/zaero",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ACreTeam/forest",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "blinry/gish",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "bruder-grimm/animal_forest_psp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "OptiJuegos/pvz-ps2-wii",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "rumbleminze/double-dragon-snes",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "jonof/jfwhaven",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "GMH-Code/Qwasm2",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "yquake2/ctf",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Falcury/rayverse",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "franklincg/twisted-metal-2012-ps3-native-port",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "libretro/tyrquake",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "HomeworldSDL/HomeworldSDL",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "imcynic/ACGC-Deluxe-PC-Port",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "jonof/jftekwar",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "GMH-Code/Wwasm",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "jotd666/xevious",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "gabrielcuvillier/arxwasm",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Hendricks266/e32wt",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "djh0ffman/KnightmareAmiga",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "DCRSDK/SonicCD-DC",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Sporesirius/fakk2-rework",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "mrcook/manic-miner",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "jason17055/micropolis-java",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "gondur/dungeons-of-daggorath",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "andrei-drexler/ironwail",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "sdlpal/sdlpal",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "EXOK/Celeste64",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "gemrb/gemrb",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "dkfans/keeperfx",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "freedoom/freedoom",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "OpenDUNE/OpenDUNE",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "scummvm/scummvm",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Aleph-One-Marathon/alephone",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "dhewm/dhewm3",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "QW-Group/ezquake-source",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ja2-stracciatella/ja2-stracciatella",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "m-x-d/Heretic2R",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "AliveTeam/alive_reversing",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "miki151/keeperrl",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "AlisterT/openjazz",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "omf2097/openomf",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "JGRennison/OpenTTD-patches",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Unvanquished/Unvanquished",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Return-To-The-Roots/s25client",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "sfall-team/sfall",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "opentyrian/opentyrian",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "swfans/syndwarsfx",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Eukaryot/sonic3air",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "freeserf/freeserf",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "LoreanXavier/pt-pc",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "samwhosung/benilla",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "freeciv/freeciv",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Wargus/wargus",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "OpenXcom/OpenXcom",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "1oom-fork/1oom",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "am2r-android/AM2R-Autopatcher-Android",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "TurningWheel/Barony",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "bibendovsky/bstone",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "nhaar/Waddle-Forever",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "elasota/Aerofoil",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "WiredForWar/machines",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "maxr-dot-org/maxr",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "MorsGames/MoonChildFE",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Interrupt/systemshock",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Bishop-333/OmegA-engine",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "OpenReliant/openreliant",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "BrokenRegistry/Rotp-Fusion",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "simutrans/simutrans",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Javanaise/mrboom-libretro",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "NagyD/SDLPoP",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "OpenCrystalCaves/OpenCrystalCaves",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "arx/ArxLibertatis",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Panzerschrek/Chasm-Reverse",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "dgcor/DGEngine",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "IceReaper/OpenKrush",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "wheybags/freeablo",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "MustaphaTR/Romanovs-Vengeance",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "riperiperi/FreeSO",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Styd051/DOOM64-EX-Plus-Enhanced",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "alariq/mc2",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "sulix/omnispeak",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "codenamecpp/GLKeeper",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "andyvand/opentyrian2000",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "ABrandau/Shattered-Paradise-SDK",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "crowded-street/3sx",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "qbism/q2tools-220",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "kylofon/testdrive3-enhanced",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "UltimaBeaR/OpenChaos",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ForNeVeR/O21",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Librelancer/Librelancer",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "djyt/cannonball",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "2003scape/rsc-c",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "jjmhalew/WoodyRE",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "sourcehold/OpenSHC",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "dpt/The-Great-Escape-in-C",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "andreyvelsk/com.mobilerpgpack.phone",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "SwagSoftware/KisakBlack",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "induktio/thinker",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "ryzom/ryzomcore",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ZeroK-RTS/Zero-K",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "kylofon/acesofthepacific-enhanced",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "EvolutionRTS/Evolution-RTS",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "re-rac/rerac-launcher",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "jnmartin84/sonic-r",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "kylofon/test-drive-3-sdl3",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Owen-Splat/las-decomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "falltergeist/falltergeist",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "b3dgs/lionheart-remake",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "ForsakenX/forsaken",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "CriminalRETeam/gta2_re",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "arescentral/antares",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "AbyssEngine/AbyssEngine",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "halkuncode/Raiders2600",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Kromster80/kam_remake",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "OpenRAC/rac1-decomp",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Warsow/qfusion",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "quakeforge/quakeforge",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Solen1985/CivOne",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "loadzero/si78c",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "SonyEntertainmentNetwork/BBPSX-Decompilation",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "csinkers/ualbion",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "enriquesomolinos/DreeRally",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "dulsi/btbuilder",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "jotd666/mspacman500",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "Teofil98/OpenHopmon",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "jotd666/bagman",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "GlitchedDeveloper/Babil-Decompilation-Project",
+      "reason": "Sem imagem adequada e verificável no README"
+    },
+    {
+      "repo": "alexey-lysiuk/OpenChasm",
+      "reason": "README não encontrado"
+    },
+    {
+      "repo": "hogsy/chronon",
+      "reason": "Sem imagem adequada e verificável no README"
+    }
+  ],
+  "rejected": [
+    {
+      "repo": "rages4calm/earthbound-companion",
+      "image_url": "https://raw.githubusercontent.com/rages4calm/earthbound-companion/HEAD/docs/images/display-settings.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "tekrantgaming/earthworm-jim-hd-recompiled",
+      "image_url": "https://raw.githubusercontent.com/TekRantGaming/earthworm-jim-hd-recompiled/HEAD/docs/images/launcher-gameplay.jpg",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "genrythefox0/project-2099",
+      "image_url": "https://raw.githubusercontent.com/GenryTheFox0/Project-2099/HEAD/assets/installer-v2-one-screen-ru-20260921.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "alexbeavs-ps1-ports/syphon-filter-2-recomp",
+      "image_url": "https://raw.githubusercontent.com/alexbeavs-ps1-ports/psxrecomp-ports/main/docs/assets/alexbeav-ps1-recomps-banner.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "technicallycomputers/twistedmetal4recomp",
+      "image_url": "https://raw.githubusercontent.com/RetroPortingToolKit/Retro-Launcher/main/docs/screenshots/hub-and-game-launcher.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "alexbeavs-ps1-ports/psxrecomp-ports",
+      "image_url": "https://raw.githubusercontent.com/alexbeavs-ps1-ports/psxrecomp-ports/HEAD/docs/assets/alexbeav-ps1-recomps-banner.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "alexbeavs-ps1-ports/parasite-eve-recomp",
+      "image_url": "https://raw.githubusercontent.com/TechnicallyComputers/RetComM-Launcher/main/docs/screenshots/hub-and-game-launcher.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "nefariousjosiah/wwe-svr2010-recomp",
+      "image_url": "https://raw.githubusercontent.com/nefariousjosiah/WWE-SVR2010-RECOMP/HEAD/docs/settings-menu.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "theokyr/project8recomp",
+      "image_url": "https://raw.githubusercontent.com/theokyr/Project8Recomp/HEAD/docs/images/launcher-first-run.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "periblugaming/toystory2recomp",
+      "image_url": "https://raw.githubusercontent.com/RetroPortingToolKit/Retro-Launcher/main/docs/screenshots/hub-and-game-launcher.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "alexbeavs-ps1-ports/alone-in-the-dark-the-new-nightmare-recomp",
+      "image_url": "https://raw.githubusercontent.com/TechnicallyComputers/RetComM-Launcher/main/docs/screenshots/hub-and-game-launcher.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "tekrantgaming/outpost-kaloki-x-recompiled",
+      "image_url": "https://raw.githubusercontent.com/TekRantGaming/outpost-kaloki-x-recompiled/HEAD/docs/images/launcher-gameplay.jpg",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "nefariousjosiah/wwe-svr2009-recomp",
+      "image_url": "https://raw.githubusercontent.com/nefariousjosiah/WWE-SVR2009-RECOMP/HEAD/docs/settings-menu.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "nefariousjosiah/wwe-svr2008-recomp",
+      "image_url": "https://raw.githubusercontent.com/nefariousjosiah/WWE-SVR2008-RECOMP/HEAD/docs/settings-menu.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "luisxl15/guitar-hero-3-recomp-",
+      "image_url": "https://raw.githubusercontent.com/luisxl15/Guitar-Hero-3-Recomp-/HEAD/docs/img/launcher.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "tekrantgaming/simpsons-wrestling-recompiled",
+      "image_url": "https://raw.githubusercontent.com/TekRantGaming/simpsons-wrestling-recompiled/HEAD/docs/images/launcher-gameplay.jpg",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "fluffyquack/rexglue-exit",
+      "image_url": "https://raw.githubusercontent.com/rexglue/rexglue-media/main/ReX_Banner.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "alexbeavs-ps1-ports/metal-gear-solid-recomp",
+      "image_url": "https://raw.githubusercontent.com/alexbeavs-ps1-ports/psxrecomp-ports/main/docs/assets/alexbeav-ps1-recomps-banner.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "alexbeavs-ps1-ports/final-fantasy-ix-recomp",
+      "image_url": "https://raw.githubusercontent.com/alexbeavs-ps1-ports/psxrecomp-ports/main/docs/assets/alexbeav-ps1-recomps-banner.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "alexbeavs-ps1-ports/dino-crisis-recomp",
+      "image_url": "https://raw.githubusercontent.com/alexbeavs-ps1-ports/psxrecomp-ports/main/docs/assets/alexbeav-ps1-recomps-banner.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "mstan/pokemonstadiumrecomp",
+      "image_url": "https://raw.githubusercontent.com/mstan/PokemonStadiumRecomp/HEAD/docs/launcher.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "fluffyquack/rexglue-soulcaliburiv",
+      "image_url": "https://raw.githubusercontent.com/rexglue/rexglue-media/main/ReX_Banner.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "kirby1237/parappatherapperrecomp",
+      "image_url": "https://raw.githubusercontent.com/RetroPortingToolKit/Retro-Launcher/main/docs/screenshots/hub-and-game-launcher.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "arnaldolima1/gow-ascension-pc",
+      "image_url": "https://raw.githubusercontent.com/arnaldolima1/gow-ascension-pc/HEAD/packaging/icon.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "faligame/lost-odyssey-hd-remaster",
+      "image_url": "https://raw.githubusercontent.com/faligame/lost-odyssey-hd-remaster/HEAD/media/in-game-settings.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "fluffyquack/rexglue-metalslugxx",
+      "image_url": "https://raw.githubusercontent.com/rexglue/rexglue-media/main/ReX_Banner.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "chiikabu/the-browsing-of-isaac",
+      "image_url": "https://raw.githubusercontent.com/chiikabu/the-browsing-of-isaac/HEAD/docs/media/gameplay.webp",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "sunjaycy/goldeneye-recomp-rexglue",
+      "image_url": "https://raw.githubusercontent.com/rexglue/rexglue-media/main/ReX_Banner.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "felipeprado0/spartanport",
+      "image_url": "https://raw.githubusercontent.com/FelipePrado0/SpartanPort/HEAD/packaging/icon/monogram.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "randomityguy/mbhaxe",
+      "image_url": "https://raw.githubusercontent.com/StikStore/altdirect/refs/heads/main/assets/png/AltSource_Blue.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "ajncsystem/shadowofthecolossus-pc",
+      "image_url": "https://raw.githubusercontent.com/AjncSystem/ShadowOfTheColossus-PC/HEAD/docs/images/sotc-menu-f1-en.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "ioquake/ioq3",
+      "image_url": "https://user-images.githubusercontent.com/1681963/52239617-e2683480-289c-11e9-922b-5da55472e5b4.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "hayatog/iss_pc",
+      "image_url": "https://raw.githubusercontent.com/HayatoG/iss_pc/HEAD/docs/screenshots/video-tutorial.jpg",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "oussama268/shadowofthecolossus-pc",
+      "image_url": "https://raw.githubusercontent.com/Oussama268/ShadowOfTheColossus-PC/HEAD/docs/images/sotc-menu-f1-en.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "hayatog/tlg_pc",
+      "image_url": "https://raw.githubusercontent.com/HayatoG/tlg_pc/HEAD/docs/screenshots/video-tutorial.jpg",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "0herculabs/hl360-forza3",
+      "image_url": "https://raw.githubusercontent.com/0herculabs/hl360-forza3/HEAD/doc/media/launcher-profiles.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "izzy2lost/starship",
+      "image_url": "https://raw.githubusercontent.com/izzy2lost/Starship/HEAD/docs/poweredbylus.lightmode.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "blacklineinteractive/driveclub-port",
+      "image_url": "https://raw.githubusercontent.com/BlackLineInteractive/Driveclub-Port/HEAD/media/logo.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "blawar/ooot",
+      "image_url": "https://user-images.githubusercontent.com/84041391/163289314-75bf3467-9506-4df6-bdf8-ece6a7114792.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "jnmartin84/doom64-dc",
+      "image_url": "https://raw.githubusercontent.com/jnmartin84/doom64-dc/main/images/fragment.png?raw=true",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "fwgs/xash3d-fwgs",
+      "image_url": "https://github.com/FWGS/xash3d-fwgs/raw/master/game_launch/icon-xash-material.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "michelpereira/awesome-open-source-games",
+      "image_url": "https://github.com/mojang.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "youkaicountry/yknytt",
+      "image_url": "https://raw.githubusercontent.com/youkaicountry/yknytt/HEAD/screenshots/screen6.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "collinsmith/riiablo",
+      "image_url": "https://raw.githubusercontent.com/collinsmith/diablo/master/screenshots/Clipboard-3.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "turican0/remc2",
+      "image_url": "https://github.com/user-attachments/assets/c6507af5-3be5-4a24-806f-9bb5338ece3b",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "sk8-engine/skate-3-rust-engine",
+      "image_url": "https://raw.githubusercontent.com/SK8-ENGINE/skate-3-rust-engine/HEAD/docs/images/skating-crab.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "guimaraf/3sxw",
+      "image_url": "https://raw.githubusercontent.com/guimaraf/3sxw/HEAD/img/config.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "clover-moe/lilium-voyager",
+      "image_url": "https://raw.githubusercontent.com/clover-moe/lilium-voyager/master/misc/lilium.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "konovalov-aleks/resl",
+      "image_url": "https://github.com/konovalov-aleks/reSL/assets/11459433/8573c2d1-270a-4dd9-b9cf-f0b8bc43b311",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    },
+    {
+      "repo": "andreapavoni/parabellum",
+      "image_url": "https://raw.githubusercontent.com/andreapavoni/parabellum/HEAD/frontend/static/screenshots_resources.png",
+      "reason": "Revisão visual: interface de ferramenta, banner genérico ou imagem sem identificação do jogo"
+    }
+  ]
+}
