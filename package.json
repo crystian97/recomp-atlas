@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "node scripts/serve.mjs",
     "start": "node scripts/serve.mjs",
-    "check": "node --check dist/app.js && node --check dist/curated.js && node check.cjs && node check-refresh.cjs && node --check dist/browser-projects.js && node check-browser.cjs && node check-covers.cjs",
+    "check": "node --check dist/app.js && node --check dist/curated.js && node check.cjs && node check-refresh.cjs && node --check dist/browser-projects.js && node check-browser.cjs && node check-covers.cjs && node --check dist/hero.js && node --check dist/news.js && node check-news.cjs",
     "test": "npm run check"
   }
 }
