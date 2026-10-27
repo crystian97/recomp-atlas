@@ -3,7 +3,7 @@ const elements={};let selectedPlatforms=[],selectedTypes=[];
 const document={querySelector:s=>elements[s]??={value:s==='#sort'?'featured':'',checked:false},querySelectorAll:s=>s.includes('name=platform')?selectedPlatforms.map(value=>({value})):s.includes('name=type')?selectedTypes.map(value=>({value})):[]};
 const ctx=vm.createContext({document,localStorage:{getItem:()=>null},URL,console,Intl,Date});
 vm.runInContext(fs.readFileSync('dist/curated.js','utf8'),ctx);
-const code=fs.readFileSync('dist/app.js','utf8').split("$('#search').addEventListener")[0];vm.runInContext(code,ctx);
+const code=fs.readFileSync('dist/app.js','utf8').split("// Catalog page bootstrap")[0];vm.runInContext(code,ctx);
 ctx.data=JSON.parse(fs.readFileSync('dist/catalog.json','utf8'));vm.runInContext('games=normalized(data)',ctx);
 const count=vm.runInContext('games.length',ctx);assert(count>500);assert(vm.runInContext('games.every(g=>labels[g.type])',ctx));
 elements['#search']={value:'Zelda64Recomp'};assert(vm.runInContext('filtered().some(g=>g.repo==="Zelda64Recomp/Zelda64Recomp")',ctx));

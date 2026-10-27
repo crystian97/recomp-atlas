@@ -7,7 +7,7 @@ const document={querySelector:node,querySelectorAll:s=>s==='.project-cover img'?
 const data=JSON.parse(fs.readFileSync('dist/catalog.json','utf8'));
 let offline=false;
 const ctx=vm.createContext({document,URL,Date,console,AbortSignal,localStorage:{getItem:()=>null,setItem(){}},fetch:async()=>{if(offline)throw new TypeError('Failed to fetch');return {ok:true,json:async()=>data}}});
-vm.runInContext(fs.readFileSync('dist/app.js','utf8').split("$('#search').addEventListener")[0],ctx);
+vm.runInContext(fs.readFileSync('dist/app.js','utf8').split("// Catalog page bootstrap")[0],ctx);
 (async()=>{
  await vm.runInContext('refresh()',ctx);
  assert.equal(node('#syncLabel').textContent,'Sincronizado com a base');

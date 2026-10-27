@@ -11,6 +11,8 @@ Catálogo em português de recompilações, ports nativos e recriações de engi
 - Ordenação por destaque, atividade, estrelas e nome.
 - Título e capa com links para o GitHub.
 - Favoritos locais no navegador.
+- Páginas dos projetos com links oficiais, requisitos e guias em português.
+- Novidades em cards com imagens, destaque e filtros por versão ou atividade.
 - Base comunitária atualizada ao abrir e a cada 30 minutos enquanto a página estiver visível.
 - Lista complementar de projetos verificados, com consulta de versões diretamente ao GitHub.
 
@@ -40,6 +42,9 @@ Sem npm, execute `node --check dist/app.js`, `node --check dist/curated.js` e `n
 | `dist/app.js` | Busca, filtros, favoritos e atualização |
 | `dist/catalog.json` | Cópia da base para carregamento inicial e fallback |
 | `dist/curated.js` | Projetos complementares verificados |
+| `dist/projeto.html` e `dist/project.js` | Página de detalhes de cada projeto |
+| `dist/project-guides.js` | Tutoriais específicos resumidos em português a partir dos READMEs |
+| `dist/project-docs.json` | Links de documentação identificados nos READMEs oficiais |
 | `dist/covers/` | Capas locais |
 | `check.cjs` | Testes do catálogo e mesclagem |
 | `scripts/serve.mjs` | Servidor de desenvolvimento |
@@ -87,3 +92,9 @@ Consulte [VERIFICACAO-NAVEGADOR.md](VERIFICACAO-NAVEGADOR.md) para evidências e
 O filtro agrupa plataformas por família, com ícones, contagens, seleção múltipla e busca. A seleção é preservada durante a atualização do catálogo.
 
 600 capas locais adicionais foram obtidas de Libretro Thumbnails, com 602 associações por título normalizado e plataforma original. A origem de cada arquivo está em `COVER-SOURCES.json`. O script `scripts/update-covers.mjs` permite reconstruir o índice; falhas de obtenção ficam registradas, sem substituir uma imagem por uma capa de outro jogo. Nem todos os títulos possuem correspondência no acervo. O índice local permanece disponível após a atualização da fonte comunitária.
+
+## Guias dos projetos
+
+Os tutoriais específicos informam a fonte oficial e a data da revisão. Projetos que ainda não têm um tutorial específico exibem um roteiro geral, identificado como tal, com links para as instruções do autor. O catálogo não distribui os arquivos comerciais dos jogos.
+
+O índice de documentação pode ser atualizado com `node scripts/update-project-docs.mjs`. O processo lê os READMEs públicos e mantém um cache local ignorado pelo Git. Os resumos em português de `dist/project-guides.js` passam por revisão editorial.

@@ -6,7 +6,7 @@ const data=JSON.parse(fs.readFileSync('dist/catalog.json','utf8'));
 let offline=false;const requests=[];
 const ctx=vm.createContext({document,URL,Date,console,AbortSignal,localStorage:{getItem:()=>null,setItem(){}},fetch:async url=>{requests.push(url);if(offline)throw Error('Offline');if(url.includes('api.github.com'))return {ok:false};return {ok:true,json:async()=>data}}});
 for(const path of ['dist/curated.js','dist/browser-projects.js'])vm.runInContext(fs.readFileSync(path,'utf8'),ctx);
-vm.runInContext(fs.readFileSync('dist/app.js','utf8').split("$('#search').addEventListener")[0],ctx);
+vm.runInContext(fs.readFileSync('dist/app.js','utf8').split("// Catalog page bootstrap")[0],ctx);
 const run=s=>vm.runInContext(s,ctx);
 (async()=>{
  await run('refresh()');

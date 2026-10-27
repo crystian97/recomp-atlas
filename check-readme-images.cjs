@@ -11,7 +11,7 @@ for(const [repo,path] of Object.entries(index)){
  assert.match(manifest.sources[repo].image_url,/^https:\/\//);
  assert.match(manifest.sources[repo].readme_url,/^https:\/\/raw.githubusercontent.com\//);
 }
-vm.runInContext(fs.readFileSync('dist/app.js','utf8').split("$('#search').addEventListener")[0],ctx);
+vm.runInContext(fs.readFileSync('dist/app.js','utf8').split("// Catalog page bootstrap")[0],ctx);
 const repo=Object.keys(index)[0];ctx.game={repo:repo.toUpperCase(),title:'Example',platform:'PC',screenshot:'screenshots/example.jpg',thumb_src:'https://example.com/thumb.png'};
 assert.equal(vm.runInContext('picture(game)',ctx),index[repo]);
 ctx.future={generated_at:'2026-12-01',games:[{...ctx.game,id:'example',url:'https://github.com/'+repo,type:'source-port'}]};
