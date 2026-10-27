@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T19:26:59.301Z",
+  "checked_at": "2026-10-27T13:30:23.671Z",
   "sources": {
     "covers/libretro-3ebe025ce2952d14.png": "https://raw.githubusercontent.com/libretro-thumbnails/Microsoft_-_Xbox_360/master/Named_Boxarts/Lollipop%20Chainsaw%20(Japan).png",
     "covers/libretro-1a8079c734674f16.png": "https://raw.githubusercontent.com/libretro-thumbnails/Microsoft_-_Xbox/master/Named_Boxarts/Burnout%202%20-%20Point%20of%20Impact%20(USA).png",
@@ -55,7 +55,9 @@
     "covers/libretro-9a550a31459694c7.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Mega%20Man%20X5%20(USA).png",
     "covers/libretro-cc3e9ae4fd9da678.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Mega%20Man%20X6%20(USA)%20(Rev%201).png",
     "covers/libretro-ffef2922f5954601.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Street%20Fighter%20Alpha%203%20(USA).png",
+    "covers/libretro-49710a9cacd363bb.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Syphon%20Filter%202%20(USA)%20(Disc%201).png",
     "covers/libretro-fff47f72781b10c9.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Tomba!%20(USA).png",
+    "covers/libretro-4a120c6fb4dc6d70.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Twisted%20Metal%204%20(USA)%20(Rev%201).png",
     "covers/libretro-8619e4ba82aa1adb.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Dragon%20Ball%20GT%20-%20Final%20Bout%20(USA).png",
     "covers/libretro-384d5d49fd2bbb7e.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Resident%20Evil%203%20-%20Nemesis%20(USA).png",
     "covers/libretro-3a38e4194cdaff0b.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Street%20Fighter%20EX%20Plus%20Alpha%20(USA).png",
@@ -74,14 +76,20 @@
     "covers/libretro-98a67ac58ea42cb9.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Ace%20Combat%203%20-%20Electrosphere%20(USA).png",
     "covers/libretro-beef0473f2807a23.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Klonoa%20-%20Door%20to%20Phantomile%20(USA).png",
     "covers/libretro-0751333886372953.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/MediEvil%20(USA).png",
+    "covers/libretro-08b7c3da79efa47a.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Parasite%20Eve%20(USA)%20(Disc%201).png",
     "covers/libretro-16004694e731b513.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Wipeout%20XL%20(USA).png",
     "covers/libretro-2308369e74499866.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Castlevania%20Chronicles%20(USA).png",
     "covers/libretro-b0f923c0805f8425.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Ridge%20Racer%20(USA)%20%5BGreatest%20Hits%5D.png",
+    "covers/libretro-f56289fe3c3a73cc.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Alone%20in%20the%20Dark%20-%20The%20New%20Nightmare%20(USA)%20(Disc%201).png",
     "covers/libretro-5f8af04cebf6ecdc.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Alundra%20(USA)%20(Rev%201).png",
     "covers/libretro-ddf1d0f24040f10e.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Battle%20Arena%20Toshinden%20(USA).png",
     "covers/libretro-d9d8eee2c7bde845.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Bomberman%20Fantasy%20Race%20(USA).png",
     "covers/libretro-03262ecbf432d2b6.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Diablo%20(USA)%20(En%2CFr%2CDe%2CSv).png",
     "covers/libretro-307dcf28269fe57b.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Star%20Wars%20-%20Episode%20I%20-%20Jedi%20Power%20Battles%20(USA).png",
+    "covers/libretro-cdf11a10d6ea2c4c.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Parasite%20Eve%20II%20(USA)%20(Disc%201).png",
+    "covers/libretro-0b6324615854ba36.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Armored%20Core%20(USA)%20(Reprint).png",
+    "covers/libretro-a631c282e290fd5b.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Gran%20Turismo%202%20(USA)%20(Arcade%20Mode)%20(Rev%201).png",
+    "covers/libretro-a7559ed97cb4de67.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Metal%20Gear%20Solid%20(USA)%20(Disc%201)%20(Rev%201).png",
     "covers/libretro-5b3930ce816d6bbd.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Nightmare%20Creatures%20II%20(USA).png",
     "covers/libretro-4f4e3defdc2804bc.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Puyo%20Puyo%20Box%20(Japan).png",
     "covers/libretro-d0ad865c417cb605.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Samurai%20Shodown%20-%20Warriors%20Rage%20(USA).png",
@@ -90,8 +98,10 @@
     "covers/libretro-b37ca1627dfec97f.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Valkyrie%20Profile%20(USA)%20(Disc%201).png",
     "covers/libretro-b16578083648a092.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Apocalypse%20(USA).png",
     "covers/libretro-4c0d88fd81ea3d97.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Crash%20Bandicoot%203%20-%20Warped%20(Europe%2C%20Australia)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "covers/libretro-b59aa5035a8865a9.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Dino%20Crisis%20(USA)%20(Rev%201).png",
     "covers/libretro-d20d6bd8c0a0277b.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Dino%20Crisis%202%20(USA).png",
     "covers/libretro-5393b296b8503960.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Earthworm%20Jim%202%20(Europe).png",
+    "covers/libretro-cec55dce567068d0.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20IX%20(USA%2C%20Canada)%20(Disc%201)%20(Rev%201).png",
     "covers/libretro-98fc74d42d6dfd99.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20Tactics%20(USA).png",
     "covers/libretro-6a35061447dfb802.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20VIII%20(USA)%20(Disc%201).png",
     "covers/libretro-2f861cace9069e33.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Point%20Blank%20(USA).png",
@@ -113,9 +123,12 @@
     "covers/libretro-ff6e31793c56f870.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Resident%20Evil%20(USA).png",
     "covers/libretro-94d74c10095ec945.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Doom%20(USA)%20(Rev%201).png",
     "covers/libretro-aea013142ba7b09d.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/BattleTanx%20-%20Global%20Assault%20(USA).png",
+    "covers/libretro-fbbd1308017b9ca0.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Chrono%20Cross%20(USA)%20(Disc%201).png",
     "covers/libretro-25fdefdcf61315fb.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Digimon%20World%202%20(USA).png",
     "covers/libretro-9b6d7076453937de.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Rage%20Racer%20(USA).png",
+    "covers/libretro-d441774286afa176.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20VII%20(USA)%20(Disc%201).png",
     "covers/libretro-93f2b52ad3bb711c.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Legacy%20of%20Kain%20-%20Soul%20Reaver%20(USA).png",
+    "covers/libretro-ca93ad5a4bafa657.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Serial%20Experiments%20Lain%20(Japan)%20(Disc%201).png",
     "covers/libretro-5f4cd451f4b6994a.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Another%20Mind%20(Japan).png",
     "covers/libretro-1636987e0d3a803d.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Tony%20Hawk's%20Pro%20Skater%20(USA).png",
     "covers/libretro-3b364622d5d7fcbc.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Digimon%20World%20(USA).png",
@@ -144,6 +157,7 @@
     "covers/libretro-a4ccbf874bc42152.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Crash%20Bash%20(USA).png",
     "covers/libretro-1e2151468b9ad11b.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/PaRappa%20the%20Rapper%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).png",
     "covers/libretro-9c939bf8c98fc46f.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Tokimeki%20Memorial%20-%20Forever%20with%20You%20(Japan)%20(PlayStation%20the%20Best).png",
+    "covers/libretro-55aeabf301d6aca6.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Driver%202%20(USA)%20(Disc%201)%20(Rev%201).png",
     "covers/libretro-14ff0f6482a2ab48.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Resident%20Evil%202%20(USA)%20(Disc%201).png",
     "covers/libretro-7ccfb9f6f010b306.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_2/master/Named_Boxarts/Dark%20Cloud%202%20(USA)%20(v1.00).png",
     "covers/libretro-583ee9aa29101942.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_2/master/Named_Boxarts/Resident%20Evil%20-%20Code%20-%20Veronica%20X%20(USA).png",
@@ -209,19 +223,30 @@
     "covers/libretro-b56332a3c4225926.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_2/master/Named_Boxarts/Need%20for%20Speed%20-%20Underground%202%20(USA).png",
     "covers/libretro-469277b93feaaebc.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_3/master/Named_Boxarts/Drakengard%203%20(USA).png",
     "covers/libretro-3d4d13325c91b3b1.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_3/master/Named_Boxarts/Demon's%20Souls%20(Europe).png",
+    "covers/libretro-c2157d278ece21a0.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_3/master/Named_Snaps/inFamous%20(USA)%20(En%2CFr%2CEs)%20(v01.00).png",
+    "covers/libretro-ea28d3323ffcc5ca.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_3/master/Named_Snaps/God%20of%20War%20-%20Ascension%20(USA)%20(En%2CFr%2CEs%2CPt).png",
+    "covers/libretro-ecb8533e157c2496.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_3/master/Named_Snaps/Yakuza%20-%20Dead%20Souls%20(USA).png",
+    "covers/libretro-446ab2fc4093bb4c.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_3/master/Named_Snaps/White%20Knight%20Chronicles%20II%20(USA)%20(En%2CFr%2CEs).png",
     "covers/libretro-4f50031bd46fd140.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Boxarts/God%20of%20War%20-%20Chains%20of%20Olympus%20(USA).png",
     "covers/libretro-ae044a19bdfbf6c6.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Boxarts/God%20of%20War%20-%20Ghost%20of%20Sparta%20(USA)%20(En%2CFr%2CEs)%20(v2.00).png",
+    "covers/libretro-0c5edbf65409842c.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Boxarts/Grand%20Theft%20Auto%20-%20Vice%20City%20Stories%20(USA)%20(v1.03).png",
     "covers/libretro-0fc047099cbfbe3c.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Boxarts/WipEout%20Pure%20(USA)%20(En%2CFr%2CEs)%20(v1.04).png",
     "covers/libretro-182258ee93bb9f42.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Boxarts/Tekken%20-%20Dark%20Resurrection%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).png",
     "covers/libretro-c4f895e6878dab25.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Boxarts/Shin%20Megami%20Tensei%20-%20Persona%203%20Portable%20(USA).png",
     "covers/libretro-21dba8b525e0481d.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Boxarts/Monster%20Hunter%20Portable%202nd%20G%20(Japan%2C%20Asia).png",
+    "covers/libretro-ef1a9065e6fa2cf2.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Snaps/Bakugan%20-%20Defenders%20of%20the%20Core%20(USA)%20(En%2CFr).png",
+    "covers/libretro-1d6368de298c0911.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA)%20(GameCube).png",
+    "covers/libretro-aae63072a1e41dcc.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(USA)%20(GameCube).png",
     "covers/libretro-009e116721e668ea.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Super%20Mario%2064%20(USA).png",
+    "covers/libretro-f052ccdefe4238b8.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Fox%2064%20(USA)%20(Rev%201).png",
+    "covers/libretro-d9b7e7b7056ff670.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Banjo-Kazooie%20(USA)%20(Rev%201).png",
     "covers/libretro-1483882a3ab0b8fc.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Kart%2064%20(USA).png",
     "covers/libretro-76cbcfde24b196af.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Dinosaur%20Planet%20(USA)%20(Proto)%20(2000-12-01).png",
     "covers/libretro-e35d15596df663c2.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Donkey%20Kong%2064%20(USA).png",
     "covers/libretro-0cbc4bd84baddbe1.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mystical%20Ninja%20Starring%20Goemon%20(USA).png",
     "covers/libretro-aaa2364af6c72534.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Jet%20Force%20Gemini%20(USA).png",
     "covers/libretro-be6843644954ef3b.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Conker's%20Bad%20Fur%20Day%20(USA).png",
+    "covers/libretro-aadeef205f527fb9.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Diddy%20Kong%20Racing%20(USA)%20(En%2CFr)%20(Rev%201).png",
     "covers/libretro-88770300ec88b4d6.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/GoldenEye%20007%20(USA).png",
     "covers/libretro-a3d6e0e1ff55df49.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Harvest%20Moon%2064%20(USA).png",
     "covers/libretro-4ad97937b8d09ae9.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Snowboard%20Kids%202%20(USA).png",
@@ -230,17 +255,27 @@
     "covers/libretro-4673a39ae243a7ed.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Beetle%20Adventure%20Racing!%20(USA)%20(En%2CFr%2CDe).png",
     "covers/libretro-b15376e239bbd0b1.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bomberman%20Hero%20(USA).png",
     "covers/libretro-3304a5c7f5c0bf59.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Castlevania%20-%20Legacy%20of%20Darkness%20(USA).png",
+    "covers/libretro-749d9079a11e8a90.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mischief%20Makers%20(USA)%20(Rev%201).png",
+    "covers/libretro-ee22ab4e51181d35.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Ogre%20Battle%2064%20-%20Person%20of%20Lordly%20Caliber%20(USA%2C%20Europe)%20(Rev%201)%20(Wii%20Virtual%20Console).png",
+    "covers/libretro-b5aaa6174249da7e.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Perfect%20Dark%20(USA)%20(Debug%20Version)%20(2000-03-22).png",
     "covers/libretro-607c599cc127bfad.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pokemon%20Snap%20(USA).png",
     "covers/libretro-f49c35973cab9d23.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Quest%2064%20(USA).png",
     "covers/libretro-ac10a4e90ecaa9af.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Road%20Rash%2064%20(USA).png",
     "covers/libretro-ff9e23d579c33ce8.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rush%202%20-%20Extreme%20Racing%20USA%20(USA).png",
+    "covers/libretro-b5104c5a7a75b867.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/SpaceStation%20Silicon%20Valley%20(USA)%20(Rev%201).png",
     "covers/libretro-b41f9ce835d8bc84.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mega%20Man%2064%20(USA).png",
     "covers/libretro-3c37607f82938466.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/BattleTanx%20-%20Global%20Assault%20(USA).png",
     "covers/libretro-795a17d5db6a5583.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Blast%20Corps%20(USA)%20(Rev%201).png",
     "covers/libretro-07f645867cdcffca.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/San%20Francisco%20Rush%202049%20(USA).png",
+    "covers/libretro-6e97ee593f67f626.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Wayne%20Gretzky's%203D%20Hockey%20(USA)%20(Rev%201).png",
     "covers/libretro-66817dcbfcd32821.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Yoshi's%20Story%20(USA)%20(En%2CJa).png",
     "covers/libretro-f4810507201db203.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Duke%20Nukem%20-%20Zero%20Hour%20(USA).png",
+    "covers/libretro-193d559af4cc0d72.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pokemon%20Stadium%20(USA)%20(Rev%201).png",
     "covers/libretro-020c22e1261499b3.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rocket%20-%20Robot%20on%20Wheels%20(USA).png",
+    "covers/libretro-047915e7cb97fc9a.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Wars%20-%20Shadows%20of%20the%20Empire%20(USA)%20(Aftermarket)%20(Unl).png",
+    "covers/libretro-8d610ea9329a5c7b.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Turok%20-%20Rage%20Wars%20(USA)%20(Rev%201).png",
+    "covers/libretro-ce680ba9dc1b34b4.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WCW%20vs.%20nWo%20-%20World%20Tour%20(USA)%20(Rev%201).png",
+    "covers/libretro-f99e99ce7d187f13.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WWF%20No%20Mercy%20(USA)%20(Rev%201).png",
     "covers/libretro-bb12b9dfe7b5e420.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bomberman%2064%20(USA).png",
     "covers/libretro-a7d96a20836ba9a1.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Glover%20(USA).png",
     "covers/libretro-2914ca05b9807ab1.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WCW-nWo%20Revenge%20(USA).png",
@@ -251,24 +286,32 @@
     "covers/libretro-a562c3a39039cf8c.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/StarCraft%2064%20(USA).png",
     "covers/libretro-02fddf6c11fff2a0.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Banjo-Tooie%20(USA).png",
     "covers/libretro-1719c21d9b75af09.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Battlezone%20-%20Rise%20of%20the%20Black%20Dogs%20(USA).png",
+    "covers/libretro-604d4934680e3fa7.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Chameleon%20Twist%20(USA)%20(Rev%201).png",
     "covers/libretro-d37f02a6f0c1bca2.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Snowboard%20Kids%20(USA).png",
     "covers/libretro-d87f74b72c13b039.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Tetrisphere%20(USA).png",
     "covers/libretro-47580fcd02978cc4.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue!%20(USA)%20(Rev%201).png",
     "covers/libretro-fc6b3ac0485fd517.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Virtual%20Pro%20Wrestling%2064%20(Japan).png",
     "covers/libretro-b6d97babbd4e9e27.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WWF%20WrestleMania%202000%20(USA).png",
+    "covers/libretro-bd0800e53830b010.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Wars%20-%20Rogue%20Squadron%20(USA)%20(Rev%201).png",
     "covers/libretro-fbb66aba0d489454.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Buck%20Bumble%20(USA).png",
     "covers/libretro-f0ed3e706b1542e7.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Golf%20(USA).png",
     "covers/libretro-4562614f182acfc2.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Super%20Smash%20Bros.%20(USA).png",
     "covers/libretro-fd093865e1e54740.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Party%203%20(USA)%20(LodgeNet).png",
     "covers/libretro-9213771c83bf9230.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Paper%20Mario%20(USA).png",
+    "covers/libretro-13a327bc1f050fea.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Doom%2064%20(USA)%20(Rev%201).png",
     "covers/libretro-e7532a619bbdfd6c.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/F-Zero%20X%20(USA).png",
     "covers/libretro-bf49783e65e80c95.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/BattleTanx%20(USA).png",
     "covers/libretro-091584979ef052f5.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Kirby%2064%20-%20The%20Crystal%20Shards%20(USA).png",
+    "covers/libretro-661cb5b230793160.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Aidyn%20Chronicles%20-%20The%20First%20Mage%20(USA)%20(Rev%201).png",
     "covers/libretro-28708358ef17d355.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/1080%20Snowboarding%20(USA)%20(En%2CJa)%20(LodgeNet).png",
     "covers/libretro-f9727ddbd5e97465.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Gex%2064%20-%20Enter%20the%20Gecko%20(USA).png",
+    "covers/libretro-fec099d1d19c08b3.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Party%202%20(USA)%20(Wii%20Virtual%20Console).png",
+    "covers/libretro-3ebbef3910721b8a.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Turok%202%20-%20Seeds%20of%20Evil%20(USA)%20(Rev%201).png",
     "covers/libretro-38f6c9a4392ae084.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bomberman%2064%20-%20The%20Second%20Attack!%20(USA).png",
+    "covers/libretro-c7042180e90df9c9.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Castlevania%20(USA)%20(Rev%201).png",
     "covers/libretro-722b68890a6fdb2a.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Gauntlet%20Legends%20(USA).png",
     "covers/libretro-e44640909904d7a0.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Duke%20Nukem%2064%20(USA).png",
+    "covers/libretro-78d5b5bfab936838.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Tennis%20(USA)%20(Wii%20Virtual%20Console).png",
     "covers/libretro-808fd7b4d7bb3177.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Hey%20You%2C%20Pikachu!%20(USA).png",
     "covers/libretro-0326e13fd258bccb.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Knife%20Edge%20-%20Nose%20Gunner%20(USA).png",
     "covers/libretro-4e5ccbb8c4d60654.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Turok%203%20-%20Shadow%20of%20Oblivion%20(USA).png",
@@ -286,9 +329,13 @@
     "covers/libretro-7d376c76dfa58171.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Scooby-Doo!%20Night%20of%20100%20Frights%20(USA)%20(Rev%201).png",
     "covers/libretro-e32de875901ff1e2.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Scooby-Doo!%20Unmasked%20(USA)%20(En%2CFr).png",
     "covers/libretro-5c6c0388d2a70b35.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/SSX%20On%20Tour%20(USA).png",
+    "covers/libretro-91545d7811fa8845.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Metal%20Gear%20Solid%20-%20The%20Twin%20Snakes%20(USA)%20(Disc%201).png",
+    "covers/libretro-4fc595ebcd263ecf.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Animal%20Crossing%20(Nintendo)%20(USA).png",
+    "covers/libretro-c2471b7937057e2e.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Star%20Fox%20Adventures%20(USA)%20(Rev%201).png",
     "covers/libretro-8f636393e1f638fb.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Super%20Mario%20Strikers%20(USA).png",
     "covers/libretro-d0aaf4f71a36e070.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Party%204%20(USA)%20(Rev%201).png",
     "covers/libretro-1ac3ee8799927eb0.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Party%206%20(USA).png",
+    "covers/libretro-a36c823240bae518.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Resident%20Evil%204%20(USA)%20(Disc%201).png",
     "covers/libretro-ce9377bd5cd7f272.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Need%20for%20Speed%20-%20Most%20Wanted%20(USA).png",
     "covers/libretro-95ed11dd8159c4b1.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Kart%20-%20Double%20Dash!!%20(USA)%20(Bonus%20Disc).png",
     "covers/libretro-348079bbffa492b7.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pikmin%202%20(USA).png",
@@ -367,28 +414,38 @@
     "covers/libretro-c894a02a76c3cd70.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Wii_U/master/Named_Boxarts/Splatoon%20(USA)%20(En%2CFr%2CEs).png",
     "covers/libretro-059f8702f928a582.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Wii_U/master/Named_Boxarts/Yoshi's%20Woolly%20World%20(USA)%20(En%2CFr%2CEs).png",
     "covers/libretro-044f56b63b16ac7f.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Wii_U/master/Named_Boxarts/Sonic%20Lost%20World%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).png",
+    "covers/libretro-9a85af960091970a.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20(USA%2C%20Europe)%20(Switch%20Online).png",
     "covers/libretro-ba21d8c79aa6faa1.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Donkey%20Kong%20Country%20(USA%2C%20Europe)%20(Rev%202)%20(Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online).png",
+    "covers/libretro-afdc5fead4637be5.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%20X%20(USA)%20(Rev%201).png",
     "covers/libretro-e82b6399fa791c52.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Donkey%20Kong%20Country%202%20-%20Diddy's%20Kong%20Quest%20(USA%2C%20Europe)%20(En%2CFr)%20(Rev%201)%20(Switch%20Online).png",
     "covers/libretro-55e4887b637b91bf.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/F-Zero%20(USA%2C%20Europe)%20(Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online).png",
     "covers/libretro-cf9e0f04c7b211d1.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%20X2%20(USA).png",
     "covers/libretro-96c44a811c4bb958.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%20X3%20(USA).png",
     "covers/libretro-668744b30438287f.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20World%20(USA%2C%20Europe)%20(Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online).png",
+    "covers/libretro-a44eff284918e408.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Metroid%20(USA%2C%20Europe)%20(En%2CJa)%20(Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online).png",
+    "covers/libretro-ebbf493d6a8da6cc.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/ActRaiser%20(USA)%20(Arcade).png",
     "covers/libretro-0f358bb6eafc2511.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/International%20Superstar%20Soccer%20Deluxe%20(USA).png",
     "covers/libretro-3ee90156f5c50e9b.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Strike%20Gunner%20S.T.G%20(USA).png",
     "covers/libretro-598696a354747433.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20RPG%20-%20Legend%20of%20the%20Seven%20Stars%20(USA%2C%20Europe)%20(Virtual%20Console).png",
     "covers/libretro-1299224ffb4b1f49.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Doom%20(USA).png",
+    "covers/libretro-e68f5a45badb9560.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Super%20Saiya%20Densetsu%20(Japan)%20(Rev%201).png",
     "covers/libretro-e9bca84388597800.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jungle%20Strike%20(USA).png",
     "covers/libretro-d1960384be52a386.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Bomberman%20(USA).png",
     "covers/libretro-05fbadaace26136b.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Go%20Go%20Ackman%20(Japan).png",
     "covers/libretro-1c0d333f5c653525.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20Kart%20(USA).png",
     "covers/libretro-85158ddc59c22770.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/EarthBound%20(USA).png",
     "covers/libretro-972a384108f87ca1.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tiny%20Toon%20Adventures%20-%20Buster%20Busts%20Loose!%20(USA).png",
+    "covers/libretro-63fce9e2cc56502c.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Zombies%20Ate%20My%20Neighbors%20(USA)%20(Virtual%20Console).png",
+    "covers/libretro-b06d0686046ef1db.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Fox%20(USA)%20(Rev%201).png",
     "covers/libretro-c241a53873e108d0.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Final%20Fantasy%20VI%20(USA).png",
+    "covers/libretro-1385a2f7e29494cd.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Zelda%20no%20Densetsu%20-%20Kamigami%20no%20Triforce%20(Japan)%20(Rev%201).png",
     "covers/libretro-9de1b8d85a713aad.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Ghouls%20'N%20Ghosts%20(USA%2C%20Europe)%20(Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online).png",
     "covers/libretro-e90b4c8419b34368.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Goof%20Troop%20(USA).png",
     "covers/libretro-7885feb902d67fdb.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20RPG%20(Japan)%20(Virtual%20Console).png",
     "covers/libretro-08010d49dfc3edd3.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fire%20Emblem%20-%20Thracia%20776%20(USA).png",
+    "covers/libretro-6a7e08542965f33a.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jurassic%20Park%20(USA)%20(Rev%201).png",
     "covers/libretro-9a97455df3bc3b7e.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%207%20(USA).png",
+    "covers/libretro-c370a3a40546afc9.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20World%202%20-%20Yoshi's%20Island%20(USA)%20(Rev%201).png",
     "covers/libretro-f18e0ebf3ce294d7.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Final%20Fantasy%20IV%20(USA).png",
     "covers/libretro-7d7b5757736e2823.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Harvest%20Moon%20(USA).png",
     "covers/libretro-6b0699f839622afb.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kirby%20Super%20Star%20(USA).png",
@@ -489,6 +546,7 @@
     "covers/libretro-47537d27216f5c32.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Sims%202%2C%20The%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl).png",
     "covers/libretro-359d64967c8136b1.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mario%20vs.%20Donkey%20Kong%20(USA%2C%20Australia).png",
     "covers/libretro-46ff6949e88def7d.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Wario%20Land%20-%20Super%20Mario%20Land%203%20(World).png",
+    "covers/libretro-e6b1c53239783a83.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Mario%20Land%202%20-%206%20Golden%20Coins%20(USA%2C%20Europe)%20(Rev%201).png",
     "covers/libretro-bd50a5fd720e6b48.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Battle%20Arena%20Toshinden%20(USA)%20(SGB%20Enhanced).png",
     "covers/libretro-d79541724c9958f6.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kirby's%20Dream%20Land%20(USA%2C%20Europe).png",
     "covers/libretro-720f6e730c545d41.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kirby's%20Pinball%20Land%20(USA%2C%20Europe).png",
@@ -496,6 +554,7 @@
     "covers/libretro-b17766e7c1d1d35b.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Metroid%20II%20-%20Return%20of%20Samus%20(World).png",
     "covers/libretro-b97f1751bd442582.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Final%20Fantasy%20Adventure%20(USA).png",
     "covers/libretro-49126f87a74316d3.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mega%20Man%20II%20(USA).png",
+    "covers/libretro-0bd7fc0e39764689.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Mario%20Land%20(World)%20(Rev%201).png",
     "covers/libretro-8c3e92df50901821.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mega%20Man%20-%20Dr.%20Wily's%20Revenge%20(USA).png",
     "covers/libretro-ea513d4ee4f158a9.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Resident%20Evil%20Gaiden%20(USA).png",
     "covers/libretro-f8b83ed4f822e19b.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Shantae%20(USA).png",
@@ -536,8 +595,11 @@
     "covers/libretro-0e51d38dd7ce2398.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mario%20Party%20DS%20(USA)%20(Rev%201).png",
     "covers/libretro-7bdf475a2fbe28db.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rhythm%20Heaven%20(USA).png",
     "covers/libretro-0fabf5e3515308a8.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Shin%20Megami%20Tensei%20IV%20(USA).png",
+    "covers/libretro-d189072064ffeefc.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%203D%20(USA)%20(En%2CFr%2CEs)%20(Rev%201).png",
+    "covers/libretro-2a9a21c85f357b4c.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%203D%20(USA)%20(En%2CFr%2CEs)%20(Rev%201).png",
     "covers/libretro-817702c22b87e961.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Monster%20Hunter%204%20Ultimate%20(USA).png",
     "covers/libretro-5aac926dada9b6dc.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Pokemon%20Moon%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt%2CZh%2CKo).png",
+    "covers/libretro-73d138d72d93e646.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Super%20Mario%203D%20Land%20(USA)%20(En%2CFr%2CEs)%20(Rev%201).png",
     "covers/libretro-5613275495dbc6b8.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20Between%20Worlds%20(USA)%20(En%2CFr%2CEs).png",
     "covers/libretro-4444ff91354ad659.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Paper%20Mario%20-%20Sticker%20Star%20(USA)%20(En%2CFr%2CEs).png",
     "covers/libretro-f94b458ac5743d2f.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Dreamcast/master/Named_Boxarts/Sonic%20Adventure%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs)%20(Rev%20A).png",
@@ -600,488 +662,50 @@
     "covers/libretro-1c0428ad1fe79c3e.png": "https://raw.githubusercontent.com/libretro-thumbnails/DOS/master/Named_Boxarts/Dangerous%20Dave%20in%20the%20Haunted%20Mansion%20(1991).png",
     "covers/libretro-20e6ed519a10ccd2.png": "https://raw.githubusercontent.com/libretro-thumbnails/DOS/master/Named_Boxarts/Stronghold%20(1993).png",
     "covers/libretro-33af17c79be60f06.png": "https://raw.githubusercontent.com/libretro-thumbnails/DOS/master/Named_Boxarts/Ultima%20VI%20-%20The%20False%20Prophet%20(1990).png",
-    "covers/libretro-a96fd79bb3b44510.png": "https://raw.githubusercontent.com/libretro-thumbnails/DOS/master/Named_Boxarts/Syndicate.png"
+    "covers/libretro-a96fd79bb3b44510.png": "https://raw.githubusercontent.com/libretro-thumbnails/DOS/master/Named_Boxarts/Syndicate.png",
+    "covers/libretro-0f140e347cbcaa01.png": "https://raw.githubusercontent.com/libretro-thumbnails/DOS/master/Named_Snaps/Tube.png",
+    "covers/libretro-0c9d9788be1fcd6a.png": "https://raw.githubusercontent.com/libretro-thumbnails/DOS/master/Named_Snaps/Bedlam%202_%20Absolute%20Bedlam.png",
+    "covers/libretro-5e487c88bb22e708.png": "https://raw.githubusercontent.com/libretro-thumbnails/DOS/master/Named_Snaps/Super%20ZZT.png",
+    "covers/libretro-652f56bc1b501eb1.png": "https://raw.githubusercontent.com/libretro-thumbnails/DOS/master/Named_Snaps/ZZT.png",
+    "covers/libretro-b3f27e678681e79b.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Boxarts/Cobra%20(Ocean%20Software%20Ltd).png",
+    "covers/libretro-d76e0eee69448c12.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Boxarts/Head%20over%20Heels%20(Ocean%20Software%20Ltd).png",
+    "covers/libretro-95fd2862680ad55e.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Boxarts/Soldier%20of%20Fortune%20(Firebird%20Software%20Ltd).png",
+    "covers/libretro-f502f931678b3118.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Boxarts/Jet%20Set%20Willy%20(Software%20Projects%20Ltd).png",
+    "covers/libretro-9aee69ad61f5784e.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Boxarts/Great%20Escape%2C%20The%20(Ocean%20Software%20Ltd).png",
+    "covers/libretro-a3c792c8fbfd6286.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Boxarts/Fred%20(Investronica%20S.A.).png",
+    "covers/libretro-7899db9f2f295c7f.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Boxarts/Deathchase%20(Micromega).png",
+    "covers/libretro-f57bb0947bb6f5fc.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Boxarts/Exolon%20(Hewson%20Consultants%20Ltd).png",
+    "covers/libretro-c2adf013ceca8908.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Boxarts/Nether%20Earth%20(Argus%20Press%20Software%20Ltd).png",
+    "covers/libretro-b98d5346a8ce1374.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Boxarts/Rex%20(Europe).png",
+    "covers/libretro-f3927c58319caf94.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Snaps/Manic%20Miner%20(1983)(Bug-Byte).png",
+    "covers/libretro-89b0c0d0f564d0e9.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Snaps/Chuckie%20Egg%20(1983)(A'n'F).png",
+    "covers/libretro-e3f69527c3394240.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Snaps/Hyper%20Active%20(1988)(Sinclair%20User).png",
+    "covers/libretro-7ee4832b9867f39f.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Snaps/Jet%20Pac%20(1983)(Ultimate%20Play%20The%20Game)(16K).png",
+    "covers/libretro-4ae3867567ce43d2.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Snaps/Castle%20Master%20II%20-%20The%20Crypt%20(1990)(Incentive).png",
+    "covers/libretro-23ff02fb3752930a.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum/master/Named_Snaps/Lords%20of%20Midnight%2C%20The%20(1984)(Beyond).png",
+    "covers/libretro-e92a51cfb9a0affc.png": "https://raw.githubusercontent.com/libretro-thumbnails/Commodore_-_64/master/Named_Boxarts/Elite%20(USA%2C%20Europe).png",
+    "covers/libretro-5a0a1ec80b3b22d5.png": "https://raw.githubusercontent.com/libretro-thumbnails/Commodore_-_64/master/Named_Boxarts/Maniac%20Mansion%20(USA%2C%20Europe).png",
+    "covers/libretro-80272ec8991bfdcd.png": "https://raw.githubusercontent.com/libretro-thumbnails/Commodore_-_64/master/Named_Boxarts/Uridium%20(USA%2C%20Europe).png",
+    "covers/libretro-820d0bc7263a4c4b.png": "https://raw.githubusercontent.com/libretro-thumbnails/Commodore_-_64/master/Named_Boxarts/Attack%20of%20the%20Mutant%20Camels%20(USA).png",
+    "covers/libretro-19a66530bd8f7e66.png": "https://raw.githubusercontent.com/libretro-thumbnails/Commodore_-_64/master/Named_Boxarts/Gridrunner%20(USA%2C%20Europe).png",
+    "covers/libretro-b589ed7bd7e0106f.png": "https://raw.githubusercontent.com/libretro-thumbnails/Commodore_-_64/master/Named_Boxarts/Iridis%20Alpha%20(Europe).png",
+    "covers/libretro-896ed5a4b06e7f17.png": "https://raw.githubusercontent.com/libretro-thumbnails/Atari_-_2600/master/Named_Boxarts/Raiders%20of%20the%20Lost%20Ark%20(USA).png",
+    "covers/libretro-7030b0f24ada21e6.png": "https://raw.githubusercontent.com/libretro-thumbnails/Atari_-_2600/master/Named_Boxarts/River%20Raid%20(USA).png",
+    "covers/libretro-6a7a4b9d23c3d482.png": "https://raw.githubusercontent.com/libretro-thumbnails/Atari_-_2600/master/Named_Boxarts/Haunted%20House%20(USA).png",
+    "covers/libretro-7a633fce3f045bc0.png": "https://raw.githubusercontent.com/libretro-thumbnails/Atari_-_Jaguar/master/Named_Boxarts/Doom%20(World).png",
+    "covers/libretro-60caa2261100a981.png": "https://raw.githubusercontent.com/libretro-thumbnails/Atari_-_Jaguar/master/Named_Boxarts/Rayman%20(World).png",
+    "covers/libretro-009e6c4d4db6b1a8.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Saturn/master/Named_Boxarts/Sonic%20R%20(USA%2C%20Brazil).png",
+    "covers/libretro-7600790b171de8cd.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Saturn/master/Named_Boxarts/Panzer%20Dragoon%20Saga%20(Disc%201)%20(USA).png",
+    "covers/libretro-c26e169bffdcf6aa.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Game_Gear/master/Named_Boxarts/Tails%20Adventure%20(World)%20(En%2CJa)%20(Virtual%20Console).png",
+    "covers/libretro-49da89553c47596e.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Game_Gear/master/Named_Boxarts/Sonic%20The%20Hedgehog%202%20(World)%20(Virtual%20Console).png",
+    "covers/libretro-25986d7c3cc1a354.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Game_Gear/master/Named_Boxarts/Sonic%20The%20Hedgehog%20(World)%20(Rev%20A)%20(Virtual%20Console).png",
+    "covers/libretro-bcf0067458a2c6f7.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Master_System_-_Mark_III/master/Named_Boxarts/Alex%20Kidd%20in%20Miracle%20World%20(USA%2C%20Europe%2C%20Brazil)%20(En)%20(Rev%201).png",
+    "covers/libretro-abf5b1f75233ee1a.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Master_System_-_Mark_III/master/Named_Boxarts/Sonic%20The%20Hedgehog%202%20(Europe%2C%20Brazil)%20(En)%20(Rev%201).png",
+    "covers/libretro-bdf12e826ac63a5f.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Master_System_-_Mark_III/master/Named_Boxarts/Sonic%20The%20Hedgehog%20(USA%2C%20Europe%2C%20Brazil)%20(En).png",
+    "covers/libretro-a5187098cb9003f2.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/master/Named_Boxarts/Sonic%20CD%20(USA)%20(Alt).png",
+    "covers/libretro-0ad2128a26365e44.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/master/Named_Boxarts/Shining%20Force%20CD%20(USA)%20(3R).png",
+    "covers/libretro-41081f00dab83067.png": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_32X/master/Named_Boxarts/Knuckles'%20Chaotix%20(Europe).png",
+    "covers/libretro-d5c831bbc556c60e.png": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/master/Named_Boxarts/Mario's%20Tennis%20(Japan%2C%20USA)%20(En).png"
   },
-  "failed": [
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Syphon%20Filter%202%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Twisted%20Metal%204%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Parasite%20Eve%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Alone%20in%20the%20Dark%20-%20The%20New%20Nightmare%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Parasite%20Eve%20II%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Armored%20Core%20(USA)%20(Reprint).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Gran%20Turismo%202%20(USA)%20(Arcade%20Mode)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Metal%20Gear%20Solid%20(USA)%20(Disc%201)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Dino%20Crisis%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20IX%20(USA%2C%20Canada)%20(Disc%201)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Metal%20Gear%20Solid%20(USA)%20(Disc%201)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Gran%20Turismo%202%20(USA)%20(Arcade%20Mode)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Gran%20Turismo%202%20(USA)%20(Arcade%20Mode)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Metal%20Gear%20Solid%20(USA)%20(Disc%201)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Parasite%20Eve%20II%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Chrono%20Cross%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20VII%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Serial%20Experiments%20Lain%20(Japan)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Parasite%20Eve%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20VII%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20VII%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20VII%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Gran%20Turismo%202%20(USA)%20(Arcade%20Mode)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20VII%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Driver%202%20(USA)%20(Disc%201)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Boxarts/Grand%20Theft%20Auto%20-%20Vice%20City%20Stories%20(USA)%20(v1.03).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Boxarts/Grand%20Theft%20Auto%20-%20Vice%20City%20Stories%20(USA)%20(v1.03).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA)%20(GameCube).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(USA)%20(GameCube).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Fox%2064%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Banjo-Kazooie%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Diddy%20Kong%20Racing%20(USA)%20(En%2CFr)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(USA)%20(GameCube).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Fox%2064%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mischief%20Makers%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Ogre%20Battle%2064%20-%20Person%20of%20Lordly%20Caliber%20(USA%2C%20Europe)%20(Rev%201)%20(Wii%20Virtual%20Console).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Perfect%20Dark%20(USA)%20(Debug%20Version)%20(2000-03-22).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/SpaceStation%20Silicon%20Valley%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(USA)%20(GameCube).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Wayne%20Gretzky's%203D%20Hockey%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pokemon%20Stadium%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Wars%20-%20Shadows%20of%20the%20Empire%20(USA)%20(Aftermarket)%20(Unl).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Turok%20-%20Rage%20Wars%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WCW%20vs.%20nWo%20-%20World%20Tour%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WWF%20No%20Mercy%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Banjo-Kazooie%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Chameleon%20Twist%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pokemon%20Stadium%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Wars%20-%20Rogue%20Squadron%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Perfect%20Dark%20(USA)%20(Debug%20Version)%20(2000-03-22).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(USA)%20(GameCube).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA)%20(GameCube).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Fox%2064%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Perfect%20Dark%20(USA)%20(Debug%20Version)%20(2000-03-22).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA)%20(GameCube).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Doom%2064%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(USA)%20(GameCube).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA)%20(GameCube).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Banjo-Kazooie%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(USA)%20(GameCube).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Diddy%20Kong%20Racing%20(USA)%20(En%2CFr)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Banjo-Kazooie%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Diddy%20Kong%20Racing%20(USA)%20(En%2CFr)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Fox%2064%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Doom%2064%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Perfect%20Dark%20(USA)%20(Debug%20Version)%20(2000-03-22).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Aidyn%20Chronicles%20-%20The%20First%20Mage%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mischief%20Makers%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/SpaceStation%20Silicon%20Valley%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Fox%2064%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Chameleon%20Twist%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Party%202%20(USA)%20(Wii%20Virtual%20Console).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Wars%20-%20Rogue%20Squadron%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA)%20(GameCube).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Turok%202%20-%20Seeds%20of%20Evil%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Castlevania%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Wars%20-%20Shadows%20of%20the%20Empire%20(USA)%20(Aftermarket)%20(Unl).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Banjo-Kazooie%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Tennis%20(USA)%20(Wii%20Virtual%20Console).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Perfect%20Dark%20(USA)%20(Debug%20Version)%20(2000-03-22).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pokemon%20Stadium%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA)%20(GameCube).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Metal%20Gear%20Solid%20-%20The%20Twin%20Snakes%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Animal%20Crossing%20(Nintendo)%20(USA).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Star%20Fox%20Adventures%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Animal%20Crossing%20(Nintendo)%20(USA).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Animal%20Crossing%20(Nintendo)%20(USA).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Animal%20Crossing%20(Nintendo)%20(USA).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Animal%20Crossing%20(Nintendo)%20(USA).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Resident%20Evil%204%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Animal%20Crossing%20(Nintendo)%20(USA).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Animal%20Crossing%20(Nintendo)%20(USA).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Star%20Fox%20Adventures%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Metal%20Gear%20Solid%20-%20The%20Twin%20Snakes%20(USA)%20(Disc%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Star%20Fox%20Adventures%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20(USA%2C%20Europe)%20(Switch%20Online).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%20X%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Metroid%20(USA%2C%20Europe)%20(En%2CJa)%20(Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20(USA%2C%20Europe)%20(Switch%20Online).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/ActRaiser%20(USA)%20(Arcade).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Super%20Saiya%20Densetsu%20(Japan)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20(USA%2C%20Europe)%20(Switch%20Online).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20(USA%2C%20Europe)%20(Switch%20Online).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20(USA%2C%20Europe)%20(Switch%20Online).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Zombies%20Ate%20My%20Neighbors%20(USA)%20(Virtual%20Console).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Metroid%20(USA%2C%20Europe)%20(En%2CJa)%20(Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Fox%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Metroid%20(USA%2C%20Europe)%20(En%2CJa)%20(Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Zelda%20no%20Densetsu%20-%20Kamigami%20no%20Triforce%20(Japan)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Metroid%20(USA%2C%20Europe)%20(En%2CJa)%20(Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jurassic%20Park%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20World%202%20-%20Yoshi's%20Island%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Metroid%20(USA%2C%20Europe)%20(En%2CJa)%20(Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Fox%20(USA)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20(USA%2C%20Europe)%20(Switch%20Online).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Mario%20Land%202%20-%206%20Golden%20Coins%20(USA%2C%20Europe)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Mario%20Land%20(World)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%203D%20(USA)%20(En%2CFr%2CEs)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%203D%20(USA)%20(En%2CFr%2CEs)%20(Rev%201).png",
-      "status": "invalid image"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Super%20Mario%203D%20Land%20(USA)%20(En%2CFr%2CEs)%20(Rev%201).png",
-      "status": "invalid image"
-    }
-  ]
+  "failed": []
 }

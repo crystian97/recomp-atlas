@@ -95,6 +95,8 @@ O filtro agrupa plataformas por família, com ícones, contagens, seleção múl
 
 ## Guias dos projetos
 
-Os tutoriais específicos informam a fonte oficial e a data da revisão. Projetos que ainda não têm um tutorial específico exibem um roteiro geral, identificado como tal, com links para as instruções do autor. O catálogo não distribui os arquivos comerciais dos jogos.
+Os tutoriais específicos informam a fonte oficial e a data da revisão. As sequências de compilação extraídas dos READMEs mostram os comandos publicados pelos autores e explicações em português, com opções por sistema quando disponíveis. Quando faltam informações suficientes, a página informa que o tutorial está em preparação. Não é exibido um roteiro genérico como se fosse um tutorial. O catálogo não distribui os arquivos comerciais dos jogos.
 
 O índice de documentação pode ser atualizado com `node scripts/update-project-docs.mjs`. O processo lê os READMEs públicos e mantém um cache local ignorado pelo Git. Os resumos em português de `dist/project-guides.js` passam por revisão editorial.
+
+Para atualizar os comandos de compilação a partir do cache de READMEs, execute `node scripts/update-build-guides.mjs`. Esses comandos são exibidos para consulta e não são executados pelo importador. Os resumos específicos de `dist/project-guides.js` têm precedência sobre os guias extraídos.

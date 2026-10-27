@@ -1,5 +1,12 @@
 // Resumos editoriais em português, conferidos nos READMEs oficiais em 27/10/2026.
 const PROJECT_GUIDES = {
+ 'mrcook/manic-miner': {
+  title:'Manic Miner: Retro!',buildOnly:true,source:'https://github.com/mrcook/manic-miner#controls',checked:'2026-10-27',
+  requirements:['Este roteiro de compilação é para Linux. O autor informa testes em Linux e macOS; não confirma testes em Windows.','Git, CMake 3.6 ou superior, compilador g++ com C++14 e os arquivos de desenvolvimento do SDL2.','Não há uma release identificada no catálogo: este procedimento cria o executável a partir do código-fonte.'],
+  steps:[['Prepare as ferramentas','Instale Git, CMake, g++ e a biblioteca de desenvolvimento SDL2 pelo gerenciador de pacotes da sua distribuição. O arquivo de build usa g++ e procura o SDL2.'],['Baixe o código do projeto','No terminal, clone o repositório e entre na pasta criada.','git clone https://github.com/mrcook/manic-miner.git\ncd manic-miner'],['Configure e compile','Crie uma pasta de build separada do código. A configuração escolhe Release por padrão.','mkdir build\ncd build\ncmake ..\ncmake --build . --config Release'],['Abra o Manic Miner','Dentro da pasta build, execute o programa gerado no subdiretório manic-miner.','./manic-miner/manic_miner'],['Use os controles','Enter inicia a partida. As setas esquerda e direita movem Willy; Espaço pula; P pausa; Q sai. Colete todas as chaves para abrir a passagem da sala.']],
+  links:[['Arquivo de compilação consultado','https://github.com/mrcook/manic-miner/blob/HEAD/CMakeLists.txt']],
+  note:'O README registra ausência de som e de suporte a joystick, falhas gráficas, tela de Game Over incompleta e problemas de desempenho. Os comandos foram preparados a partir do CMakeLists.txt; a compilação do jogo não foi executada neste site.'
+ },
  'oaleex/shaolinmonksrecomp': {
   source:'https://github.com/OAleex/OpenShao#install', checked:'2026-10-27',
   requirements:['Uma cópia própria de Shaolin Monks para Xbox, versão USA ou Europa.','Windows 10 1903+ ou Linux com glibc 2.38+. CPU x64 com SSE4.2 e POPCNT.','GPU com Direct3D 12 ou Vulkan 1.2, conforme os requisitos oficiais.'],
